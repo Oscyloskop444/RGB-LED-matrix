@@ -1,0 +1,69 @@
+Plugin v0.0.1 running on KiCad 10.0.5-10.0.5~ubuntu24.04.1 and Python 3.12.3 (main, Jun 19 2026, 12:46:00) [GCC 13.3.0] on linux.
+Valid Board found for /data/Projects/RGB_LED_matrix/RGB_LED_matrix_PCB/RGB_LED_matrix_PCB.kicad_sch
+10 sheet instances entries in /data/Projects/RGB_LED_matrix/RGB_LED_matrix_PCB/RGB_LED_matrix_PCB.kicad_sch
+Anchor changed to U1
+Enabled leaf: 27606c4c-ec53-4093-beca-59128dbde82e
+Enabled leaf: 7cfbbf17-db00-43e0-9d50-39b19764bbe1
+Enabled leaf: 7fadccab-ab0e-43bc-92a9-e99076a58ee0
+Enabled leaf: 9849674e-397a-4321-8706-2a771e563315
+Enabled leaf: ab45249d-4e64-4cf4-ad6a-2f236ef647b1
+Enabled leaf: b3b9e5a5-2097-44f9-8740-e0fafba8ca17
+Enabled leaf: cd04060b-0d13-49e5-8d45-959a428c1f2a
+Enabled leaf: d59d09c3-af45-4781-a0eb-8c154e3164b3
+Enabled leaf: ef17d329-96e3-4b92-9f59-2fcf42ae82bd
+Enabled leaf: f4e469db-61ad-454d-8865-e5c06bf55d05
+Root item: <wx._dataview.TreeListItem object at 0x7a9d62c7c560>
+Valid board for 27606c4c-ec53-4093-beca-59128dbde82e
+Valid child board for 
+Instance is a branch: Root
+Valid board for 27606c4c-ec53-4093-beca-59128dbde82e
+Instance is a leaf: /27606c4c-ec53-4093-beca-59128dbde82e
+Valid board for 7cfbbf17-db00-43e0-9d50-39b19764bbe1
+Instance is a leaf: /7cfbbf17-db00-43e0-9d50-39b19764bbe1
+Valid board for 7fadccab-ab0e-43bc-92a9-e99076a58ee0
+Instance is a leaf: /7fadccab-ab0e-43bc-92a9-e99076a58ee0
+Valid board for 9849674e-397a-4321-8706-2a771e563315
+Instance is a leaf: /9849674e-397a-4321-8706-2a771e563315
+Valid board for ab45249d-4e64-4cf4-ad6a-2f236ef647b1
+Instance is a leaf: /ab45249d-4e64-4cf4-ad6a-2f236ef647b1
+Valid board for b3b9e5a5-2097-44f9-8740-e0fafba8ca17
+Instance is a leaf: /b3b9e5a5-2097-44f9-8740-e0fafba8ca17
+Valid board for cd04060b-0d13-49e5-8d45-959a428c1f2a
+Instance is a leaf: /cd04060b-0d13-49e5-8d45-959a428c1f2a
+Valid board for d59d09c3-af45-4781-a0eb-8c154e3164b3
+Instance is a leaf: /d59d09c3-af45-4781-a0eb-8c154e3164b3
+Valid board for ef17d329-96e3-4b92-9f59-2fcf42ae82bd
+Instance is a leaf: /ef17d329-96e3-4b92-9f59-2fcf42ae82bd
+Valid board for f4e469db-61ad-454d-8865-e5c06bf55d05
+Instance is a leaf: /f4e469db-61ad-454d-8865-e5c06bf55d05
+subPcb selected LED_ROW4 with 20 anchors
+Enabled leaf: 27606c4c-ec53-4093-beca-59128dbde82e
+subPcb selected LED_ROW1 with 20 anchors
+Enabled leaf: ef17d329-96e3-4b92-9f59-2fcf42ae82bd
+subPcb selected LED_ROW9 with 20 anchors
+Enabled leaf: d59d09c3-af45-4781-a0eb-8c154e3164b3
+subPcb selected LED_ROW6 with 20 anchors
+Enabled leaf: cd04060b-0d13-49e5-8d45-959a428c1f2a
+subPcb selected LED_ROW8 with 20 anchors
+Enabled leaf: b3b9e5a5-2097-44f9-8740-e0fafba8ca17
+subPcb selected LED_ROW2 with 20 anchors
+Enabled leaf: ab45249d-4e64-4cf4-ad6a-2f236ef647b1
+subPcb selected LED_ROW5 with 20 anchors
+Enabled leaf: 9849674e-397a-4321-8706-2a771e563315
+subPcb selected LED_ROW with 20 anchors
+Enabled leaf: 7fadccab-ab0e-43bc-92a9-e99076a58ee0
+subPcb selected LED_ROW7 with 20 anchors
+Enabled leaf: 7cfbbf17-db00-43e0-9d50-39b19764bbe1
+subPcb selected LED_ROW3 with 20 anchors
+Saving info for 27606c4c-ec53-4093-beca-59128dbde82e
+Saving info for 7cfbbf17-db00-43e0-9d50-39b19764bbe1
+Saving info for 7fadccab-ab0e-43bc-92a9-e99076a58ee0
+Saving info for 9849674e-397a-4321-8706-2a771e563315
+Saving info for ab45249d-4e64-4cf4-ad6a-2f236ef647b1
+Saving info for b3b9e5a5-2097-44f9-8740-e0fafba8ca17
+Saving info for cd04060b-0d13-49e5-8d45-959a428c1f2a
+Saving info for d59d09c3-af45-4781-a0eb-8c154e3164b3
+Saving info for ef17d329-96e3-4b92-9f59-2fcf42ae82bd
+Saving info for f4e469db-61ad-454d-8865-e5c06bf55d05
+Saving anchor U1 for /data/Projects/RGB_LED_matrix/RGB_LED_matrix_PCB/10_LED_row/10_LED_row.kicad_sch
+Saved.
