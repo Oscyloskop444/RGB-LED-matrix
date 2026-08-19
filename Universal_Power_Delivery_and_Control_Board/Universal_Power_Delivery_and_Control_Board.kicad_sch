@@ -1,0 +1,125 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "b749dd2f-6b66-411b-a989-65da6091f700")
+	(paper "A4")
+	(title_block
+		(title "PD section")
+		(rev "1.0")
+		(company "Jan Ścibielski")
+	)
+	(lib_symbols)
+	(sheet
+		(at 105.41 87.63)
+		(size 58.42 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ecb712a9-952e-410c-aeaa-ac56dd2d7726")
+		(property "Sheetname" "PD_Section"
+			(at 105.41 86.9184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PD_section.kicad_sch"
+			(at 105.41 119.9646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "CC1_read" output
+			(at 105.41 93.98 180)
+			(uuid "9385217c-aabc-4ebf-9163-068abd4ca48e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "CC2_read" output
+			(at 105.41 96.52 180)
+			(uuid "123de31e-e6b4-4374-950c-a9f8f291b6f2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IND_LED_DIN" input
+			(at 105.41 100.33 180)
+			(uuid "59308b83-73d9-4eaf-b666-f501910490d7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "IND_LED_DOUT" output
+			(at 105.41 102.87 180)
+			(uuid "4d952eed-77b7-4d79-9b54-6bea6a7241bb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SCL" bidirectional
+			(at 105.41 106.68 180)
+			(uuid "eaf3f24c-bd1a-493c-9f8f-64e3e6956d75")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SDA" bidirectional
+			(at 105.41 109.22 180)
+			(uuid "f38f2b8f-8097-4455-9ce6-bf7b110f7128")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "Universal_Power_Delivery_and_Control_Board"
+				(path "/b749dd2f-6b66-411b-a989-65da6091f700"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

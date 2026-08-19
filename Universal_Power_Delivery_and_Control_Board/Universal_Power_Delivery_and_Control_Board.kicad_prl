@@ -1,7 +1,7 @@
 {
   "board": {
-    "active_layer": 2,
-    "active_layer_preset": "Routing_back",
+    "active_layer": 5,
+    "active_layer_preset": "Routing_front",
     "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
@@ -63,7 +63,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "PD_section.kicad_prl",
+    "filename": "Universal_Power_Delivery_and_Control_Board.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
