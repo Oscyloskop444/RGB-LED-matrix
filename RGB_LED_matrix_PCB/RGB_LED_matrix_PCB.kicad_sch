@@ -894,8 +894,8 @@
 		(uuid "1712d9bd-3076-4f84-9ee5-9684b44bfef7")
 	)
 	(rectangle
-		(start 223.52 90.17)
-		(end 280.67 99.06)
+		(start 223.774 81.534)
+		(end 280.924 90.424)
 		(stroke
 			(width 0)
 			(type default)
@@ -904,6 +904,18 @@
 			(type none)
 		)
 		(uuid "90108d0d-cccc-49ca-9e4e-861c9eff0a82")
+	)
+	(rectangle
+		(start 223.52 114.554)
+		(end 269.24 120.904)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "e1c09440-18ae-4cb2-9c71-f83ca67ac701")
 	)
 	(text "Place 2 capacitors next to every power pour powering 20 LEDs,\nfor local energy storage which helps during sudden current spikes.\n"
 		(exclude_from_sim no)
@@ -917,7 +929,7 @@
 	)
 	(text "Test points for monitoring the voltage drop\nacross the 12V bus. Should be placed at the beginning\nand end of every thinner bus on the front side."
 		(exclude_from_sim no)
-		(at 224.536 94.996 0)
+		(at 224.79 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -925,6 +937,17 @@
 			(justify left)
 		)
 		(uuid "7f8903e0-1016-4a4c-9c16-8e64da22bce8")
+	)
+	(text "This is an alternate placement of the C101,\nmark as DNF if not needed."
+		(exclude_from_sim no)
+		(at 224.79 118.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "de745d56-e146-4b80-92a1-31cf4cac401d")
 	)
 	(junction
 		(at 185.42 104.14)
@@ -1226,7 +1249,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 90.17) (xy 245.11 67.31)
+			(xy 245.11 81.28) (xy 245.11 66.04)
 		)
 		(stroke
 			(width 0)
@@ -1244,6 +1267,17 @@
 			(type default)
 		)
 		(uuid "15c596ba-651f-49ff-a58f-7453b9e36748")
+	)
+	(wire
+		(pts
+			(xy 243.84 114.3) (xy 243.84 104.14)
+		)
+		(stroke
+			(width 0)
+			(type dash_dot_dot)
+			(color 255 137 27 1)
+		)
+		(uuid "17199017-a5c8-4ff8-8ce9-c7f7ad0b3ef4")
 	)
 	(wire
 		(pts
@@ -1354,6 +1388,17 @@
 			(type default)
 		)
 		(uuid "36103d16-f338-49a3-8323-0a0b34a50cc3")
+	)
+	(wire
+		(pts
+			(xy 220.98 41.91) (xy 220.98 120.65)
+		)
+		(stroke
+			(width 0)
+			(type dash_dot_dot)
+			(color 255 137 27 1)
+		)
+		(uuid "3910a6db-c7b1-4220-bd5b-952f44b8d170")
 	)
 	(wire
 		(pts
@@ -1474,6 +1519,16 @@
 			(type default)
 		)
 		(uuid "45544e9b-d50e-4445-b49e-bc77156bb337")
+	)
+	(wire
+		(pts
+			(xy 238.76 102.87) (xy 234.95 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46952ebf-d06b-40fd-9ce5-d7f05558ec32")
 	)
 	(wire
 		(pts
@@ -1648,6 +1703,16 @@
 	)
 	(wire
 		(pts
+			(xy 252.73 102.87) (xy 252.73 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71f6a5d8-24bd-452a-b12d-29a32ceb493f")
+	)
+	(wire
+		(pts
 			(xy 215.9 92.71) (xy 215.9 81.28)
 		)
 		(stroke
@@ -1698,7 +1763,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 41.91) (xy 163.83 41.91)
+			(xy 163.83 41.91) (xy 220.98 41.91)
 		)
 		(stroke
 			(width 0)
@@ -1890,7 +1955,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 29.21) (xy 186.69 29.21)
+			(xy 172.72 29.21) (xy 186.69 29.21)
 		)
 		(stroke
 			(width 0)
@@ -1950,7 +2015,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 120.65) (xy 173.99 120.65)
+			(xy 163.83 120.65) (xy 220.98 120.65)
 		)
 		(stroke
 			(width 0)
@@ -2171,6 +2236,16 @@
 	)
 	(wire
 		(pts
+			(xy 248.92 102.87) (xy 252.73 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1029a8d-3a0c-47bc-928b-3b4fc6cad883")
+	)
+	(wire
+		(pts
 			(xy 254 58.42) (xy 264.16 58.42)
 		)
 		(stroke
@@ -2208,6 +2283,16 @@
 			(type default)
 		)
 		(uuid "e79aa7c1-f416-47b3-b365-108f4909898f")
+	)
+	(wire
+		(pts
+			(xy 234.95 100.33) (xy 234.95 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e99e437b-a94b-479d-acbd-6d25df2d6eba")
 	)
 	(wire
 		(pts
@@ -2261,7 +2346,7 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 29.21) (xy 172.72 29.21)
+			(xy 138.43 29.21) (xy 165.1 29.21)
 		)
 		(stroke
 			(width 0)
@@ -3893,6 +3978,108 @@
 	)
 	(symbol
 		(lib_id "lcsc_imported:RZE-35V101MF80UQ-R2")
+		(at 243.84 102.87 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "87f23b05-0510-43f2-ab57-28a824b4209c")
+		(property "Reference" "C111"
+			(at 243.84 96.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "RZE-35V101MF80UQ-R2"
+			(at 243.84 99.06 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
+			(at 243.84 113.03 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
+			(at 241.554 102.743 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "RZE-35V101MF80UQ-R2"
+			(at 243.84 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C19673858"
+			(at 243.84 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TAIYO YUDEN(太诱)"
+			(at 243.84 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a6609efa-28c8-4eaa-9ea9-5306b0ef2198")
+		)
+		(pin "1"
+			(uuid "9726c383-e619-4830-8208-9aa92cbbd999")
+		)
+		(instances
+			(project "RGB_LED_matrix_PCB"
+				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
+					(reference "C111")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "lcsc_imported:RZE-35V101MF80UQ-R2")
 		(at 208.28 58.42 0)
 		(unit 1)
 		(body_style 1)
@@ -4334,7 +4521,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 176.53 29.21 90)
+		(at 168.91 29.21 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4345,7 +4532,7 @@
 		(fields_autoplaced yes)
 		(uuid "abe1c6b6-11a8-4b7a-9a3c-89f5c5083377")
 		(property "Reference" "R1"
-			(at 176.53 22.86 90)
+			(at 168.91 22.86 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4355,7 +4542,7 @@
 			)
 		)
 		(property "Value" "470R"
-			(at 176.53 25.4 90)
+			(at 168.91 25.4 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4365,7 +4552,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
-			(at 176.53 30.988 90)
+			(at 168.91 30.988 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4376,7 +4563,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 29.21 0)
+			(at 168.91 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4387,7 +4574,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 176.53 29.21 0)
+			(at 168.91 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4509,6 +4696,84 @@
 			(project "RGB_LED_matrix_PCB"
 				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
 					(reference "C107")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 252.73 105.41 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cf1bf9ef-90f4-42ca-a150-85ea754b1606")
+		(property "Reference" "#PWR048"
+			(at 252.73 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 252.73 110.49 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 252.73 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 252.73 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 252.73 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "493022e6-6437-4022-a833-35104031bce3")
+		)
+		(instances
+			(project "RGB_LED_matrix_PCB"
+				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -5031,6 +5296,84 @@
 			(project "RGB_LED_matrix_PCB"
 				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
 					(reference "TP9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 234.95 100.33 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f4fdd9a1-5b4f-42ea-b2a4-20329c81f2ef")
+		(property "Reference" "#PWR049"
+			(at 234.95 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+12V"
+			(at 234.95 95.25 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 234.95 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 234.95 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 234.95 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4ac730de-b23e-4e4e-9d49-17914ada0a00")
+		)
+		(instances
+			(project "RGB_LED_matrix_PCB"
+				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)

@@ -62,7 +62,7 @@
           "hatch_thickness": 1.0,
           "min_clearance": 0.3,
           "min_island_area": 10.0,
-          "min_thickness": 0.4,
+          "min_thickness": 0.6,
           "pad_connection": 2,
           "remove_islands": 0,
           "thermal_relief_gap": 0.3,
@@ -156,14 +156,14 @@
         "min_track_width": 0.2,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
         {
           "td_onpthpad": true,
           "td_onroundshapesonly": false,
-          "td_onsmdpad": false,
+          "td_onsmdpad": true,
           "td_ontrackend": false,
           "td_onvia": true
         }
@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "/home/oscyloskop/Downloads/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -661,7 +661,7 @@
         "uuid": "9b8f3ab9-1390-478e-b751-94b8298dc6c3"
       }
     ],
-    "used_designators": "R1,TP1-12,CN1,#PWR1-47,U1-100,D1,C1-110",
+    "used_designators": "R1,TP1-12,CN1,#PWR1-49,U1-100,D1,C1-111",
     "variants": []
   },
   "sheets": [
