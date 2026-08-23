@@ -60,9 +60,9 @@
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.2,
+          "min_clearance": 0.15,
           "min_island_area": 10.0,
-          "min_thickness": 0.25,
+          "min_thickness": 0.15,
           "pad_connection": 2,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
@@ -831,7 +831,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -997,7 +997,7 @@
         "uuid": "b749dd2f-6b66-411b-a989-65da6091f700"
       }
     ],
-    "used_designators": "USBC1-2,L1,D1-4,C1-13,#PWR1-22,LED1-2,TP1-6,R1-13,USB1-2,F1,Q1-3,U1-7",
+    "used_designators": "USBC1-2,L1,A1,D1-4,C1-13,#PWR1-22,LED1-2,TP1-6,R1-13,USB1-2,F1,Q1-3,U1-7",
     "variants": []
   },
   "sheets": [
