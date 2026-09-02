@@ -52,15 +52,15 @@
         "zones": {
           "border_display_style": 2,
           "border_hatch_pitch": 0.5,
-          "corner_radius": 0.0,
-          "corner_smoothing": 1,
+          "corner_radius": 0.5,
+          "corner_smoothing": 2,
           "fill_mode": 0,
           "hatch_gap": 1.5,
           "hatch_orientation": 0.0,
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.15,
+          "min_clearance": 0.2,
           "min_island_area": 10.0,
           "min_thickness": 0.15,
           "pad_connection": 2,
@@ -871,7 +871,7 @@
     "annotate_start_num": 0,
     "annotation": {
       "method": 0,
-      "sort_order": 0
+      "sort_order": 1
     },
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
@@ -997,7 +997,7 @@
         "uuid": "b749dd2f-6b66-411b-a989-65da6091f700"
       }
     ],
-    "used_designators": "USBC1-2,L1,A1,D1-4,C1-13,#PWR1-22,LED1-2,TP1-6,R1-13,USB1-2,F1,Q1-3,U1-7",
+    "used_designators": "USBC1-2,L1-2,A1,D1-4,C1-26,#PWR1-32,LED1-2,TP1-6,R1-15,USB1-2,F1,Q1-3,U1-8",
     "variants": []
   },
   "sheets": [
@@ -1008,6 +1008,14 @@
     [
       "ecb712a9-952e-410c-aeaa-ac56dd2d7726",
       "PD_Section"
+    ],
+    [
+      "a6d714a7-b982-4119-8ec1-595454fba1af",
+      "TPS51385"
+    ],
+    [
+      "a077c150-0803-42e0-a11e-bb92c14b0701",
+      "soft_start"
     ]
   ],
   "text_variables": {},
