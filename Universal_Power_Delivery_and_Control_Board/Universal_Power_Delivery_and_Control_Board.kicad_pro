@@ -997,7 +997,7 @@
         "uuid": "b749dd2f-6b66-411b-a989-65da6091f700"
       }
     ],
-    "used_designators": "USBC1-2,L1-2,A1,D1-4,C1-26,#PWR1-32,LED1-2,TP1-6,R1-15,USB1-2,F1,Q1-3,U1-8",
+    "used_designators": "Q1-3,F1,CN1-5,USB1-2,R1-17,TP1-6,LED1-2,#PWR1-39,C1-27,U1-9,D1-4,A1,L1-2,USBC1-2",
     "variants": []
   },
   "sheets": [
@@ -1011,11 +1011,7 @@
     ],
     [
       "a6d714a7-b982-4119-8ec1-595454fba1af",
-      "TPS51385"
-    ],
-    [
-      "a077c150-0803-42e0-a11e-bb92c14b0701",
-      "soft_start"
+      "Power_Output"
     ]
   ],
   "text_variables": {},

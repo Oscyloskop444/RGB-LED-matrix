@@ -1242,52 +1242,6 @@
 		)
 	)
 	(sheet
-		(at 184.15 119.38)
-		(size 26.67 12.7)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "a077c150-0803-42e0-a11e-bb92c14b0701")
-		(property "Sheetname" "soft_start"
-			(at 184.15 118.6684 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "soft_start.kicad_sch"
-			(at 184.15 132.6646 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "Universal_Power_Delivery_and_Control_Board"
-				(path "/b749dd2f-6b66-411b-a989-65da6091f700"
-					(page "4")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 184.15 91.44)
 		(size 36.83 17.78)
 		(exclude_from_sim no)
@@ -1303,7 +1257,7 @@
 			(color 0 0 0 0)
 		)
 		(uuid "a6d714a7-b982-4119-8ec1-595454fba1af")
-		(property "Sheetname" "TPS51385"
+		(property "Sheetname" "Power_Output"
 			(at 184.15 90.7284 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1348,6 +1302,16 @@
 		(pin "PG_TPS51385" output
 			(at 184.15 100.33 180)
 			(uuid "b526d9a6-7cc3-4e59-8828-36ea458c0477")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SOFT_START_EN" input
+			(at 184.15 105.41 180)
+			(uuid "fde5e9ff-8f48-4e28-9a35-70fb41e63e94")
 			(effects
 				(font
 					(size 1.27 1.27)
