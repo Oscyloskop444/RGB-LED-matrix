@@ -5862,16 +5862,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Do not populate if the fastest overcurrent\nlimiting behavior is desired."
-		(exclude_from_sim no)
-		(at 138.43 21.59 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "ac248d2b-df6e-42c5-a1e2-88cba641508b")
-	)
 	(text "When this resistor is fitted,\nthe ic defaults into 12V mode.\n"
 		(exclude_from_sim no)
 		(at 203.708 30.734 0)
@@ -5995,12 +5985,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "476ed2c1-deaf-4ba4-a660-cf7c8965a21e")
-	)
-	(junction
-		(at 116.84 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4a561365-7bc2-4472-b490-1b0bc866b739")
 	)
 	(junction
 		(at 157.48 147.32)
@@ -6267,6 +6251,10 @@
 	(no_connect
 		(at 209.55 137.16)
 		(uuid "f2e48917-a3ff-40d8-a50c-fb3cb1bde3fa")
+	)
+	(no_connect
+		(at 123.19 34.29)
+		(uuid "f8adb2a3-4725-4515-812e-d8230311db97")
 	)
 	(wire
 		(pts
@@ -6877,16 +6865,6 @@
 			(type default)
 		)
 		(uuid "4757c741-4595-482f-9a97-cdb8786a2de5")
-	)
-	(wire
-		(pts
-			(xy 113.03 34.29) (xy 113.03 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "47c33570-4d80-429d-a4a4-81f35091d6ca")
 	)
 	(wire
 		(pts
@@ -7611,16 +7589,6 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 54.61) (xy 116.84 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "98e7d782-5de2-4405-bdd2-ced5d2dfc3b6")
-	)
-	(wire
-		(pts
 			(xy 175.26 44.45) (xy 175.26 69.85)
 		)
 		(stroke
@@ -7728,16 +7696,6 @@
 			(type default)
 		)
 		(uuid "a4e36907-1d60-4e0c-a27d-425d71f5ba20")
-	)
-	(wire
-		(pts
-			(xy 113.03 53.34) (xy 113.03 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a6a009a0-3d23-4f68-a6c0-5812bf1d4b06")
 	)
 	(wire
 		(pts
@@ -7968,17 +7926,6 @@
 			(type default)
 		)
 		(uuid "bc7480c5-afc9-4dd5-a247-ca8b125b0793")
-	)
-	(polyline
-		(pts
-			(xy 111.76 20.32) (xy 116.84 20.32)
-		)
-		(stroke
-			(width 0)
-			(type dash_dot_dot)
-			(color 255 105 0 1)
-		)
-		(uuid "bce6183a-375c-4985-8bdd-87422ef0a1d5")
 	)
 	(wire
 		(pts
@@ -8272,16 +8219,6 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 34.29) (xy 123.19 34.29)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d96d1726-f1d6-4e1d-8c79-5fb8abfce4f3")
-	)
-	(wire
-		(pts
 			(xy 194.31 44.45) (xy 199.39 44.45)
 		)
 		(stroke
@@ -8389,17 +8326,6 @@
 			(type default)
 		)
 		(uuid "e62c7e23-861b-4945-b3f6-c0fd6c383cb9")
-	)
-	(polyline
-		(pts
-			(xy 111.76 47.752) (xy 111.76 20.32)
-		)
-		(stroke
-			(width 0)
-			(type dash_dot_dot)
-			(color 255 105 0 1)
-		)
-		(uuid "e6e7a36f-08c9-4a37-b5ab-458e652b63f2")
 	)
 	(wire
 		(pts
@@ -10609,87 +10535,6 @@
 			(project "Universal_Power_Delivery_and_Control_Board"
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "#PWR030")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 113.03 49.53 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp yes)
-		(uuid "4254dd6c-9f4b-4198-99ab-fb2e1731a67b")
-		(property "Reference" "C26"
-			(at 109.22 48.2599 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "?"
-			(at 109.22 50.7999 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
-			(at 113.9952 53.34 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 113.03 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 113.03 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "548d5234-a74f-4f92-8f4f-d08266bcd14d")
-		)
-		(pin "2"
-			(uuid "7d27b9dc-6f6c-47b3-99d6-33aa5d545e80")
-		)
-		(instances
-			(project "Universal_Power_Delivery_and_Control_Board"
-				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
-					(reference "C26")
 					(unit 1)
 				)
 			)
