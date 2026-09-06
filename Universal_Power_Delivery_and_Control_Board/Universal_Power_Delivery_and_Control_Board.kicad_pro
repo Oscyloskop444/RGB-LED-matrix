@@ -997,7 +997,7 @@
         "uuid": "b749dd2f-6b66-411b-a989-65da6091f700"
       }
     ],
-    "used_designators": "Q1-3,F1,CN1-5,USB1-2,R1-17,TP1-6,LED1-2,#PWR1-39,C1-27,U1-9,D1-4,A1,L1-2,USBC1-2",
+    "used_designators": "F1,Q1-3,USBC1-2,L1-2,CN1-5,USB1-2,R1-29,TP1-6,LED1-3,U1-17,D1-4,C1-36,A1,JP1-4,FPC1-7,RN1-5,#PWR1-58",
     "variants": []
   },
   "sheets": [
@@ -1012,6 +1012,10 @@
     [
       "a6d714a7-b982-4119-8ec1-595454fba1af",
       "Power_Output"
+    ],
+    [
+      "bdaed53d-5f4e-48c9-9e2a-f60b1b226061",
+      "Digital_Signal_Output"
     ]
   ],
   "text_variables": {},
