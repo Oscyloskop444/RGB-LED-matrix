@@ -120,9 +120,9 @@
         "padstack": "warning",
         "pth_inside_courtyard": "error",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
-        "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_edge_clearance": "ignore",
+        "silk_over_copper": "ignore",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
@@ -997,7 +997,7 @@
         "uuid": "b749dd2f-6b66-411b-a989-65da6091f700"
       }
     ],
-    "used_designators": "Q1-3,F1,RN1-5,#PWR1-71,L1-2,USBC1-2,A1-2,D1-4,U1-20,C1-43,TF1,CN1-5,USB1-2,R1-30,TP1-6,LED1-3,FPC1-7,JP1-6",
+    "used_designators": "USBC1-2,L1-2,#PWR1-78,SW1-2,RN1-5,CN1-5,USB1-2,LED1-3,TP1-6,R1-30,A1-2,JP1-10,FPC1-7,Q1-3,F1,D1-4,U1-22,C1-44,TF1",
     "variants": []
   },
   "sheets": [
