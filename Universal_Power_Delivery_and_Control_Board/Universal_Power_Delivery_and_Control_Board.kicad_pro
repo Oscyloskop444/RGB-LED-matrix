@@ -997,7 +997,7 @@
         "uuid": "b749dd2f-6b66-411b-a989-65da6091f700"
       }
     ],
-    "used_designators": "JP1-4,FPC1-7,R1-30,TP1-6,LED1-3,A1,USBC1-2,L1-2,CN1-5,USB1-2,C1-40,TF1,D1-4,U1-19,Q1-3,F1,RN1-5,#PWR1-63",
+    "used_designators": "Q1-3,F1,RN1-5,#PWR1-71,L1-2,USBC1-2,A1-2,D1-4,U1-20,C1-43,TF1,CN1-5,USB1-2,R1-30,TP1-6,LED1-3,FPC1-7,JP1-6",
     "variants": []
   },
   "sheets": [
