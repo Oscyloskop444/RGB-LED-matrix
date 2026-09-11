@@ -4753,6 +4753,12 @@
 		(uuid "1c076b61-7084-46b9-90a7-fd3d03911978")
 	)
 	(junction
+		(at 92.71 55.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "238df077-7f3f-4cd1-b592-0b9346c9307e")
+	)
+	(junction
 		(at 228.6 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5678,6 +5684,16 @@
 	)
 	(wire
 		(pts
+			(xy 92.71 55.88) (xy 97.79 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22db6a6d-fcdd-43a6-986a-d2146fe9c782")
+	)
+	(wire
+		(pts
 			(xy 245.11 118.11) (xy 248.92 118.11)
 		)
 		(stroke
@@ -5975,6 +5991,16 @@
 			(type default)
 		)
 		(uuid "40469e04-992c-48e6-b32e-24c38c645854")
+	)
+	(wire
+		(pts
+			(xy 92.71 22.86) (xy 92.71 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40842c90-c809-440d-b448-b690dd5b9c0e")
 	)
 	(wire
 		(pts
@@ -6869,7 +6895,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 55.88) (xy 97.79 55.88)
+			(xy 90.17 55.88) (xy 92.71 55.88)
 		)
 		(stroke
 			(width 0)
@@ -7026,6 +7052,16 @@
 			(type default)
 		)
 		(uuid "97da0c4a-3ac8-4677-a476-564d5a56c236")
+	)
+	(wire
+		(pts
+			(xy 92.71 33.02) (xy 92.71 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "980ad01a-cb32-4f82-b510-c534142cc39d")
 	)
 	(wire
 		(pts
@@ -12571,6 +12607,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+1V0")
+		(at 92.71 22.86 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c05dd9a5-5480-4cfa-820e-fcbc5700d8cd")
+		(property "Reference" "#PWR095"
+			(at 92.71 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 92.71 17.78 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 92.71 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+1V0\""
+			(at 92.71 22.86 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ec4c2163-d9a7-467f-948d-bee7981ae4bb")
+		)
+		(instances
+			(project "Universal_Power_Delivery_and_Control_Board"
+				(path "/b749dd2f-6b66-411b-a989-65da6091f700/a6d714a7-b982-4119-8ec1-595454fba1af"
+					(reference "#PWR095")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 58.42 165.1 0)
 		(unit 1)
@@ -13295,6 +13409,87 @@
 			(project "Universal_Power_Delivery_and_Control_Board"
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/a6d714a7-b982-4119-8ec1-595454fba1af"
 					(reference "C32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 92.71 29.21 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e07aa055-5635-4fa6-8d56-32adfd907c5d")
+		(property "Reference" "R47"
+			(at 95.25 27.9399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 95.25 30.4799 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+			(at 90.932 29.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 92.71 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "39de4efa-c34c-4a54-bfb0-e0cdbab80868")
+		)
+		(pin "2"
+			(uuid "fdfcc8a9-ebb4-4f63-b1d9-361dda887852")
+		)
+		(instances
+			(project "Universal_Power_Delivery_and_Control_Board"
+				(path "/b749dd2f-6b66-411b-a989-65da6091f700/a6d714a7-b982-4119-8ec1-595454fba1af"
+					(reference "R47")
 					(unit 1)
 				)
 			)
