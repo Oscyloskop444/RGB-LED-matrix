@@ -62,7 +62,7 @@
           "hatch_thickness": 1.0,
           "min_clearance": 0.2,
           "min_island_area": 10.0,
-          "min_thickness": 0.2,
+          "min_thickness": 0.15,
           "pad_connection": 2,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
@@ -79,7 +79,7 @@
       "drc_exclusions": [
         [
           "lib_footprint_mismatch|171775000|93665000|fa94f9de-656a-4f36-b125-cf1d6c080f26|00000000-0000-0000-0000-000000000000",
-          "Changed footprint for this to allow for my mounting style with headers and sockets."
+          "Changed footprint to match my mounting method."
         ]
       ],
       "meta": {
@@ -167,14 +167,14 @@
         "min_track_width": 0.15,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
         {
           "td_onpthpad": true,
           "td_onroundshapesonly": false,
-          "td_onsmdpad": true,
+          "td_onsmdpad": false,
           "td_ontrackend": false,
           "td_onvia": true
         }
@@ -1002,7 +1002,7 @@
         "uuid": "b749dd2f-6b66-411b-a989-65da6091f700"
       }
     ],
-    "used_designators": "#SYM1,TF1,C1-52,FPC1-7,JP1-11,A1-2,TP1-7,F1,Q1-3,U1-23,D1-5,USBC1-2,L1-2,#PWR1-98,SW1-4,RN1-5,CN1-5,USB1-2,H1-4,LED1-5,R1-47",
+    "used_designators": "U1-26,D1-6,Q1-3,F1,H1-4,LED1-5,#SYM1,TP1-7,JP1-11,FPC1-7,R1-51,USB1-2,CN1-5,#PWR1-111,L1-2,SW1-4,RN1-5,BUZZER1,USBC1-2,TH1,TF1,C1-58,A1-2",
     "variants": []
   },
   "sheets": [
