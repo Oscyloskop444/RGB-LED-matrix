@@ -661,8 +661,12 @@
         "uuid": "9b8f3ab9-1390-478e-b751-94b8298dc6c3"
       }
     ],
-    "used_designators": "R1,TP1-12,CN1,#PWR1-49,U1-100,D1,C1-111",
-    "variants": []
+    "used_designators": "R1,TP1-12,CN1,#PWR1-49,U1-100,D1,C1-115",
+    "variants": [
+      {
+        "name": "SLAVE_0"
+      }
+    ]
   },
   "sheets": [
     [

@@ -272,6 +272,2792 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "RZE-35V101MF80UQ-R2_1"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0 1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "RZE-35V101MF80UQ-R2"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
+				(at -2.286 0.127 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "RZE-35V101MF80UQ-R2"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C19673858"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "TAIYO YUDEN(太诱)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RZE-35V101MF80UQ-R2_1_1_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -0.508 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 1.778) (xy -1.778 0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 1.778) (xy -0.508 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.1278 -1.7526)
+					(mid 0.4218 0.0211)
+					(end 1.1506 1.7856)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RZE-35V101MF80UQ-R2_10"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0 1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "RZE-35V101MF80UQ-R2"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
+				(at -2.286 0.127 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "RZE-35V101MF80UQ-R2"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C19673858"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "TAIYO YUDEN(太诱)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RZE-35V101MF80UQ-R2_10_1_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -0.508 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 1.778) (xy -1.778 0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 1.778) (xy -0.508 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.1278 -1.7526)
+					(mid 0.4218 0.0211)
+					(end 1.1506 1.7856)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RZE-35V101MF80UQ-R2_11"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0 1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "RZE-35V101MF80UQ-R2"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
+				(at -2.286 0.127 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "RZE-35V101MF80UQ-R2"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C19673858"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "TAIYO YUDEN(太诱)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RZE-35V101MF80UQ-R2_11_1_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -0.508 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 1.778) (xy -1.778 0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 1.778) (xy -0.508 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.1278 -1.7526)
+					(mid 0.4218 0.0211)
+					(end 1.1506 1.7856)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RZE-35V101MF80UQ-R2_12"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0 1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "RZE-35V101MF80UQ-R2"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
+				(at -2.286 0.127 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "RZE-35V101MF80UQ-R2"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C19673858"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "TAIYO YUDEN(太诱)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RZE-35V101MF80UQ-R2_12_1_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -0.508 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 1.778) (xy -1.778 0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 1.778) (xy -0.508 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.1278 -1.7526)
+					(mid 0.4218 0.0211)
+					(end 1.1506 1.7856)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RZE-35V101MF80UQ-R2_13"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0 1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "RZE-35V101MF80UQ-R2"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
+				(at -2.286 0.127 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "RZE-35V101MF80UQ-R2"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C19673858"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "TAIYO YUDEN(太诱)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RZE-35V101MF80UQ-R2_13_1_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -0.508 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 1.778) (xy -1.778 0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 1.778) (xy -0.508 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.1278 -1.7526)
+					(mid 0.4218 0.0211)
+					(end 1.1506 1.7856)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RZE-35V101MF80UQ-R2_14"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0 1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "RZE-35V101MF80UQ-R2"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
+				(at -2.286 0.127 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "RZE-35V101MF80UQ-R2"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C19673858"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "TAIYO YUDEN(太诱)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RZE-35V101MF80UQ-R2_14_1_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -0.508 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 1.778) (xy -1.778 0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 1.778) (xy -0.508 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.1278 -1.7526)
+					(mid 0.4218 0.0211)
+					(end 1.1506 1.7856)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RZE-35V101MF80UQ-R2_2"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0 1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "RZE-35V101MF80UQ-R2"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
+				(at -2.286 0.127 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "RZE-35V101MF80UQ-R2"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C19673858"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "TAIYO YUDEN(太诱)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RZE-35V101MF80UQ-R2_2_1_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -0.508 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 1.778) (xy -1.778 0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 1.778) (xy -0.508 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.1278 -1.7526)
+					(mid 0.4218 0.0211)
+					(end 1.1506 1.7856)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RZE-35V101MF80UQ-R2_3"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0 1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "RZE-35V101MF80UQ-R2"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
+				(at -2.286 0.127 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "RZE-35V101MF80UQ-R2"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C19673858"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "TAIYO YUDEN(太诱)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RZE-35V101MF80UQ-R2_3_1_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -0.508 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 1.778) (xy -1.778 0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 1.778) (xy -0.508 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.1278 -1.7526)
+					(mid 0.4218 0.0211)
+					(end 1.1506 1.7856)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RZE-35V101MF80UQ-R2_4"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0 1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "RZE-35V101MF80UQ-R2"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
+				(at -2.286 0.127 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "RZE-35V101MF80UQ-R2"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C19673858"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "TAIYO YUDEN(太诱)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RZE-35V101MF80UQ-R2_4_1_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -0.508 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 1.778) (xy -1.778 0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 1.778) (xy -0.508 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.1278 -1.7526)
+					(mid 0.4218 0.0211)
+					(end 1.1506 1.7856)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RZE-35V101MF80UQ-R2_5"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0 1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "RZE-35V101MF80UQ-R2"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
+				(at -2.286 0.127 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "RZE-35V101MF80UQ-R2"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C19673858"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "TAIYO YUDEN(太诱)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RZE-35V101MF80UQ-R2_5_1_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -0.508 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 1.778) (xy -1.778 0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 1.778) (xy -0.508 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.1278 -1.7526)
+					(mid 0.4218 0.0211)
+					(end 1.1506 1.7856)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RZE-35V101MF80UQ-R2_6"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0 1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "RZE-35V101MF80UQ-R2"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
+				(at -2.286 0.127 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "RZE-35V101MF80UQ-R2"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C19673858"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "TAIYO YUDEN(太诱)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RZE-35V101MF80UQ-R2_6_1_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -0.508 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 1.778) (xy -1.778 0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 1.778) (xy -0.508 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.1278 -1.7526)
+					(mid 0.4218 0.0211)
+					(end 1.1506 1.7856)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RZE-35V101MF80UQ-R2_7"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0 1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "RZE-35V101MF80UQ-R2"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
+				(at -2.286 0.127 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "RZE-35V101MF80UQ-R2"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C19673858"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "TAIYO YUDEN(太诱)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RZE-35V101MF80UQ-R2_7_1_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -0.508 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 1.778) (xy -1.778 0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 1.778) (xy -0.508 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.1278 -1.7526)
+					(mid 0.4218 0.0211)
+					(end 1.1506 1.7856)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RZE-35V101MF80UQ-R2_8"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0 1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "RZE-35V101MF80UQ-R2"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
+				(at -2.286 0.127 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "RZE-35V101MF80UQ-R2"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C19673858"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "TAIYO YUDEN(太诱)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RZE-35V101MF80UQ-R2_8_1_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -0.508 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 1.778) (xy -1.778 0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 1.778) (xy -0.508 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.1278 -1.7526)
+					(mid 0.4218 0.0211)
+					(end 1.1506 1.7856)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "RZE-35V101MF80UQ-R2_9"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "C"
+				(at 0 1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "RZE-35V101MF80UQ-R2"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
+				(at -2.286 0.127 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "RZE-35V101MF80UQ-R2"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "LCSC" "C19673858"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Manufacturer" "TAIYO YUDEN(太诱)"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "RZE-35V101MF80UQ-R2_9_1_1"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -0.508 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 1.778) (xy -1.778 0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.508 1.778) (xy -0.508 -1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.1278 -1.7526)
+					(mid 0.4218 0.0211)
+					(end 1.1506 1.7856)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1 1)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "lcsc_imported:B03B-XASK-1-A(LF)(SN)"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -434,6 +3220,12 @@
 			(embedded_fonts no)
 		)
 		(symbol "lcsc_imported:RZE-35V101MF80UQ-R2"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -907,7 +3699,7 @@
 	)
 	(rectangle
 		(start 223.52 114.554)
-		(end 269.24 120.904)
+		(end 278.13 120.904)
 		(stroke
 			(width 0)
 			(type default)
@@ -938,7 +3730,7 @@
 		)
 		(uuid "7f8903e0-1016-4a4c-9c16-8e64da22bce8")
 	)
-	(text "This is an alternate placement of the C101,\nmark as DNF if not needed."
+	(text "This is an alternate placement of the C102 - C110,\nmark as DNF if not needed."
 		(exclude_from_sim no)
 		(at 224.79 118.11 0)
 		(effects
@@ -950,22 +3742,34 @@
 		(uuid "de745d56-e146-4b80-92a1-31cf4cac401d")
 	)
 	(junction
-		(at 185.42 104.14)
+		(at 168.91 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "14019005-bb2f-4f67-8cac-8b6b4eb0debc")
 	)
 	(junction
-		(at 170.18 81.28)
+		(at 153.67 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "181ba498-b4bd-4491-a010-23e10a7ba30b")
 	)
 	(junction
-		(at 163.83 120.65)
+		(at 199.39 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "29355f4f-ed69-48a0-9475-8621789b5a98")
+		(uuid "2be7bf13-6d95-48d8-90eb-aba63c58e38a")
+	)
+	(junction
+		(at 199.39 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3bdf39e7-5b4a-4a14-8098-cd5db30c12cc")
+	)
+	(junction
+		(at 214.63 69.85)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4fa57614-57cd-4c6f-ac83-ed8ac402e331")
 	)
 	(junction
 		(at 148.59 31.75)
@@ -980,31 +3784,43 @@
 		(uuid "5df30345-07bc-4ea1-af3b-0842cf137fec")
 	)
 	(junction
-		(at 170.18 58.42)
+		(at 153.67 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "66167dd6-141c-4e4b-8a15-665b0042432e")
 	)
 	(junction
-		(at 185.42 81.28)
+		(at 199.39 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "77828c70-03e2-4973-883d-236c869737c2")
+	)
+	(junction
+		(at 168.91 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "77b5fd03-4293-4551-a361-6d1320b61049")
 	)
 	(junction
-		(at 185.42 92.71)
+		(at 168.91 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7a69d89a-37a3-49d3-aaac-879d56875fe9")
 	)
 	(junction
-		(at 215.9 69.85)
+		(at 214.63 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7babba19-4443-40ef-934e-762cbd48b810")
+	)
+	(junction
+		(at 191.77 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7c46b368-a0bb-468a-afe5-29987b8f4ca6")
 	)
 	(junction
-		(at 200.66 58.42)
+		(at 176.53 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7d423c54-cd7f-4267-80ac-bdacc6b7fa14")
@@ -1022,6 +3838,24 @@
 		(uuid "9d70256d-2908-47e8-bbe5-239e9eb3f734")
 	)
 	(junction
+		(at 163.83 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a1564290-555b-4924-84f0-d0443df38461")
+	)
+	(junction
+		(at 199.39 58.42)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "adca41cf-749e-4ba1-acf3-267149f74f3a")
+	)
+	(junction
+		(at 214.63 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b5c127c9-8bfd-453d-9caa-b25757c530e4")
+	)
+	(junction
 		(at 236.22 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1034,58 +3868,64 @@
 		(uuid "bf9535ff-e789-414b-bb27-cf373844e28a")
 	)
 	(junction
-		(at 215.9 81.28)
+		(at 191.77 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c2be43b7-8809-4636-a84b-45847b436297")
 	)
 	(junction
-		(at 200.66 92.71)
+		(at 176.53 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cbc8cd99-574c-4c0a-b479-c58e2793666a")
 	)
 	(junction
-		(at 200.66 81.28)
+		(at 176.53 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d90a25d2-2a8d-4b38-b8cd-18bc9983f153")
 	)
 	(junction
-		(at 215.9 92.71)
+		(at 191.77 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "db49694a-2f79-4caa-b306-01b1a95fbaef")
 	)
 	(junction
-		(at 170.18 92.71)
+		(at 153.67 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dbeda430-d985-4805-9f15-19e9e051a03c")
 	)
 	(junction
-		(at 185.42 69.85)
+		(at 168.91 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e09dd4d4-0960-4a20-82fd-0224c9a15dd5")
 	)
 	(junction
-		(at 170.18 69.85)
+		(at 153.67 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e4582789-2653-4a54-8b8e-f2d7660a0690")
 	)
 	(junction
-		(at 215.9 104.14)
+		(at 191.77 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e8574e9a-9f20-4447-bcde-ec64c7492aa1")
 	)
 	(junction
-		(at 200.66 69.85)
+		(at 176.53 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e8771fa7-c197-45f6-9eb3-8173d7f1eb3a")
+	)
+	(junction
+		(at 214.63 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fa04e040-1f0c-485b-bb84-2003255fbc37")
 	)
 	(wire
 		(pts
@@ -1109,7 +3949,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 111.76) (xy 185.42 104.14)
+			(xy 168.91 111.76) (xy 168.91 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1119,7 +3959,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 58.42) (xy 170.18 58.42)
+			(xy 156.21 58.42) (xy 153.67 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1179,7 +4019,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 58.42) (xy 215.9 69.85)
+			(xy 191.77 58.42) (xy 191.77 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1189,7 +4029,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 92.71) (xy 200.66 92.71)
+			(xy 179.07 92.71) (xy 176.53 92.71)
 		)
 		(stroke
 			(width 0)
@@ -1206,6 +4046,16 @@
 			(type default)
 		)
 		(uuid "0bb539d0-19f0-4c13-9a9d-b3f0c4a8a35f")
+	)
+	(wire
+		(pts
+			(xy 214.63 69.85) (xy 214.63 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10ce1be3-9875-4dd0-8826-fd8d8d0bfa13")
 	)
 	(wire
 		(pts
@@ -1226,6 +4076,26 @@
 			(type default)
 		)
 		(uuid "1136f52c-afc3-42a7-bcfc-575818c8bb33")
+	)
+	(wire
+		(pts
+			(xy 212.09 81.28) (xy 214.63 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1247dda6-a8b8-4ca1-9e8b-91870ce6e451")
+	)
+	(wire
+		(pts
+			(xy 212.09 92.71) (xy 214.63 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1387abdc-ef9e-4393-898f-5583c7a64e57")
 	)
 	(wire
 		(pts
@@ -1270,18 +4140,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 114.3) (xy 243.84 104.14)
-		)
-		(stroke
-			(width 0)
-			(type dash_dot_dot)
-			(color 255 137 27 1)
-		)
-		(uuid "17199017-a5c8-4ff8-8ce9-c7f7ad0b3ef4")
-	)
-	(wire
-		(pts
-			(xy 200.66 69.85) (xy 200.66 58.42)
+			(xy 176.53 69.85) (xy 176.53 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1311,7 +4170,17 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 69.85) (xy 215.9 81.28)
+			(xy 199.39 104.14) (xy 199.39 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20355273-7084-43dd-a265-2fed75b50199")
+	)
+	(wire
+		(pts
+			(xy 191.77 69.85) (xy 191.77 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1331,7 +4200,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 50.8) (xy 200.66 58.42)
+			(xy 176.53 50.8) (xy 176.53 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1341,7 +4210,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 104.14) (xy 185.42 104.14)
+			(xy 166.37 104.14) (xy 168.91 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1361,7 +4230,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 92.71) (xy 185.42 104.14)
+			(xy 168.91 92.71) (xy 168.91 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1371,7 +4240,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 111.76) (xy 215.9 104.14)
+			(xy 191.77 111.76) (xy 191.77 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1381,7 +4250,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 69.85) (xy 215.9 69.85)
+			(xy 189.23 69.85) (xy 191.77 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1412,7 +4281,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 69.85) (xy 185.42 81.28)
+			(xy 168.91 69.85) (xy 168.91 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1452,7 +4321,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 58.42) (xy 185.42 58.42)
+			(xy 166.37 58.42) (xy 168.91 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1462,7 +4331,17 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 104.14) (xy 200.66 92.71)
+			(xy 212.09 104.14) (xy 214.63 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3dd08b16-9914-4295-88a3-8a1844f10898")
+	)
+	(wire
+		(pts
+			(xy 176.53 104.14) (xy 176.53 92.71)
 		)
 		(stroke
 			(width 0)
@@ -1472,7 +4351,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 69.85) (xy 200.66 81.28)
+			(xy 176.53 69.85) (xy 176.53 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1489,6 +4368,16 @@
 			(type default)
 		)
 		(uuid "4100b9eb-7412-4aaf-936e-dd68eec114d7")
+	)
+	(wire
+		(pts
+			(xy 201.93 69.85) (xy 199.39 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "410b9fd9-e4ff-43a1-9e94-d55f5a360ebd")
 	)
 	(wire
 		(pts
@@ -1522,16 +4411,6 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 102.87) (xy 234.95 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "46952ebf-d06b-40fd-9ce5-d7f05558ec32")
-	)
-	(wire
-		(pts
 			(xy 275.59 50.8) (xy 275.59 58.42)
 		)
 		(stroke
@@ -1552,7 +4431,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 81.28) (xy 215.9 81.28)
+			(xy 189.23 81.28) (xy 191.77 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1583,6 +4462,16 @@
 	)
 	(wire
 		(pts
+			(xy 212.09 58.42) (xy 214.63 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54376400-05a0-49ca-b2b2-4841f2b9113e")
+	)
+	(wire
+		(pts
 			(xy 22.86 130.81) (xy 22.86 144.78)
 		)
 		(stroke
@@ -1593,7 +4482,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 50.8) (xy 170.18 58.42)
+			(xy 153.67 50.8) (xy 153.67 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1603,7 +4492,18 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 69.85) (xy 200.66 69.85)
+			(xy 203.2 118.11) (xy 223.52 118.11)
+		)
+		(stroke
+			(width 0)
+			(type dash_dot_dot)
+			(color 255 137 27 1)
+		)
+		(uuid "5728c54d-bbb2-4ffe-a608-2b69f1a4c562")
+	)
+	(wire
+		(pts
+			(xy 179.07 69.85) (xy 176.53 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1633,6 +4533,16 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 69.85) (xy 199.39 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62b333e5-fe43-4d20-8eb5-99a03b86b65c")
+	)
+	(wire
+		(pts
 			(xy 25.4 161.29) (xy 20.32 161.29)
 		)
 		(stroke
@@ -1653,6 +4563,16 @@
 	)
 	(wire
 		(pts
+			(xy 199.39 50.8) (xy 199.39 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6be97530-3e79-4f89-94a4-693e3f4bf12b")
+	)
+	(wire
+		(pts
 			(xy 148.59 26.67) (xy 186.69 26.67)
 		)
 		(stroke
@@ -1670,6 +4590,17 @@
 			(type default)
 		)
 		(uuid "6e1d3826-a265-4a2c-a153-3171ac70cf21")
+	)
+	(wire
+		(pts
+			(xy 203.2 106.68) (xy 203.2 118.11)
+		)
+		(stroke
+			(width 0)
+			(type dash_dot_dot)
+			(color 255 137 27 1)
+		)
+		(uuid "6ed8aee8-baef-460a-9213-db6b622e0a28")
 	)
 	(wire
 		(pts
@@ -1703,17 +4634,7 @@
 	)
 	(wire
 		(pts
-			(xy 252.73 102.87) (xy 252.73 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71f6a5d8-24bd-452a-b12d-29a32ceb493f")
-	)
-	(wire
-		(pts
-			(xy 215.9 92.71) (xy 215.9 81.28)
+			(xy 191.77 92.71) (xy 191.77 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1730,6 +4651,46 @@
 			(type default)
 		)
 		(uuid "731e3fa7-2e86-4c77-94b4-24fa475005a8")
+	)
+	(wire
+		(pts
+			(xy 214.63 58.42) (xy 214.63 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74d66ac6-25c4-4fa2-beb6-ba3c3df69710")
+	)
+	(wire
+		(pts
+			(xy 214.63 92.71) (xy 214.63 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7587304e-d3dd-481e-a317-ca6f46b61058")
+	)
+	(wire
+		(pts
+			(xy 214.63 92.71) (xy 214.63 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f79b936-d13c-47f6-b8b1-faf33b1c135f")
+	)
+	(wire
+		(pts
+			(xy 201.93 58.42) (xy 199.39 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8397be8d-5234-45aa-8557-1010c08a58f4")
 	)
 	(wire
 		(pts
@@ -1763,7 +4724,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 41.91) (xy 220.98 41.91)
+			(xy 147.32 41.91) (xy 220.98 41.91)
 		)
 		(stroke
 			(width 0)
@@ -1774,7 +4735,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 81.28) (xy 170.18 81.28)
+			(xy 156.21 81.28) (xy 153.67 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1784,7 +4745,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 92.71) (xy 170.18 92.71)
+			(xy 156.21 92.71) (xy 153.67 92.71)
 		)
 		(stroke
 			(width 0)
@@ -1794,7 +4755,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 58.42) (xy 185.42 69.85)
+			(xy 168.91 58.42) (xy 168.91 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1804,7 +4765,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 104.14) (xy 170.18 92.71)
+			(xy 153.67 104.14) (xy 153.67 92.71)
 		)
 		(stroke
 			(width 0)
@@ -1814,7 +4775,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 69.85) (xy 170.18 58.42)
+			(xy 153.67 69.85) (xy 153.67 58.42)
 		)
 		(stroke
 			(width 0)
@@ -1824,7 +4785,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 69.85) (xy 185.42 69.85)
+			(xy 166.37 69.85) (xy 168.91 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1834,13 +4795,34 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 92.71) (xy 185.42 92.71)
+			(xy 147.32 120.65) (xy 163.83 120.65)
+		)
+		(stroke
+			(width 0)
+			(type dash_dot_dot)
+			(color 255 137 27 1)
+		)
+		(uuid "951c5763-47f4-48ba-bf0b-8b4a8e255348")
+	)
+	(wire
+		(pts
+			(xy 166.37 92.71) (xy 168.91 92.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "956510b5-0b30-4ca9-bcd9-0c9d135ded97")
+	)
+	(wire
+		(pts
+			(xy 214.63 111.76) (xy 214.63 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97f4177c-5630-498a-b4b1-c826a0938263")
 	)
 	(wire
 		(pts
@@ -1854,7 +4836,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 92.71) (xy 215.9 92.71)
+			(xy 189.23 92.71) (xy 191.77 92.71)
 		)
 		(stroke
 			(width 0)
@@ -1894,13 +4876,23 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 104.14) (xy 215.9 104.14)
+			(xy 189.23 104.14) (xy 191.77 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "9f53823d-5eab-4f14-b00b-5d8ec5eca09e")
+	)
+	(wire
+		(pts
+			(xy 212.09 69.85) (xy 214.63 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f549255-daeb-4823-a043-79e5efafd9f7")
 	)
 	(wire
 		(pts
@@ -1995,6 +4987,16 @@
 	)
 	(wire
 		(pts
+			(xy 201.93 92.71) (xy 199.39 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6d7f63b-a226-427a-92b1-1e8cd70e9b1a")
+	)
+	(wire
+		(pts
 			(xy 25.4 128.27) (xy 20.32 128.27)
 		)
 		(stroke
@@ -2005,7 +5007,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 104.14) (xy 170.18 104.14)
+			(xy 156.21 104.14) (xy 153.67 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2026,7 +5028,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 92.71) (xy 170.18 81.28)
+			(xy 153.67 92.71) (xy 153.67 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2056,7 +5058,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 81.28) (xy 185.42 81.28)
+			(xy 166.37 81.28) (xy 168.91 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2116,7 +5118,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 69.85) (xy 170.18 69.85)
+			(xy 156.21 69.85) (xy 153.67 69.85)
 		)
 		(stroke
 			(width 0)
@@ -2126,7 +5128,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 92.71) (xy 185.42 81.28)
+			(xy 168.91 92.71) (xy 168.91 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2136,7 +5138,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 58.42) (xy 200.66 58.42)
+			(xy 179.07 58.42) (xy 176.53 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2146,7 +5148,27 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 92.71) (xy 200.66 81.28)
+			(xy 199.39 92.71) (xy 199.39 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9184634-1de9-4165-8886-f6dd59e7b51a")
+	)
+	(wire
+		(pts
+			(xy 199.39 69.85) (xy 199.39 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf47962d-4646-4917-9c08-a7064a53086b")
+	)
+	(wire
+		(pts
+			(xy 176.53 92.71) (xy 176.53 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2206,7 +5228,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 58.42) (xy 215.9 58.42)
+			(xy 189.23 58.42) (xy 191.77 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2216,7 +5238,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 104.14) (xy 200.66 104.14)
+			(xy 179.07 104.14) (xy 176.53 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2233,16 +5255,6 @@
 			(type default)
 		)
 		(uuid "e0e550d7-cfea-4e9b-8919-2f0aa85e930f")
-	)
-	(wire
-		(pts
-			(xy 248.92 102.87) (xy 252.73 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e1029a8d-3a0c-47bc-928b-3b4fc6cad883")
 	)
 	(wire
 		(pts
@@ -2276,7 +5288,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 69.85) (xy 170.18 81.28)
+			(xy 153.67 69.85) (xy 153.67 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2286,13 +5298,13 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 100.33) (xy 234.95 102.87)
+			(xy 201.93 104.14) (xy 199.39 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e99e437b-a94b-479d-acbd-6d25df2d6eba")
+		(uuid "e8efdf03-d8ad-4a6c-969a-f8f1f67c6a2d")
 	)
 	(wire
 		(pts
@@ -2316,7 +5328,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 92.71) (xy 215.9 104.14)
+			(xy 191.77 92.71) (xy 191.77 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2356,7 +5368,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 41.91) (xy 163.83 120.65)
+			(xy 147.32 41.91) (xy 147.32 120.65)
 		)
 		(stroke
 			(width 0)
@@ -2367,13 +5379,23 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 81.28) (xy 200.66 81.28)
+			(xy 179.07 81.28) (xy 176.53 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "f5432cdd-132a-4094-88ad-5f5cb4efb486")
+	)
+	(wire
+		(pts
+			(xy 201.93 81.28) (xy 199.39 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7feae0e-40f4-4e57-ba46-2b2bdb6d52dc")
 	)
 	(wire
 		(pts
@@ -2414,6 +5436,113 @@
 			(type default)
 		)
 		(uuid "fffc2775-a5e7-4472-8f61-128abef54686")
+	)
+	(symbol
+		(lib_name "RZE-35V101MF80UQ-R2_3")
+		(lib_id "lcsc_imported:RZE-35V101MF80UQ-R2")
+		(at 207.01 104.14 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "0771d4d7-797d-45b0-bf9e-315c487a69b0")
+		(property "Reference" "C115"
+			(at 207.01 97.79 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100uF"
+			(at 207.01 100.33 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
+			(at 207.01 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
+			(at 204.724 104.013 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "RZE-35V101MF80UQ-R2"
+			(at 207.01 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C19673858"
+			(at 207.01 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TAIYO YUDEN(太诱)"
+			(at 207.01 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "8703b0e9-c899-4b23-9fe5-2c8d843a267f")
+		)
+		(pin "1"
+			(uuid "2e0dfb01-be41-4783-8095-93b4b7ad5e8a")
+		)
+		(instances
+			(project "RGB_LED_matrix_PCB"
+				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
+					(reference "C115")
+					(unit 1)
+					(variant
+						(name "SLAVE_0")
+						(dnp no)
+					)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
@@ -2732,8 +5861,9 @@
 		)
 	)
 	(symbol
+		(lib_name "RZE-35V101MF80UQ-R2_5")
 		(lib_id "lcsc_imported:RZE-35V101MF80UQ-R2")
-		(at 208.28 104.14 0)
+		(at 184.15 104.14 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2744,7 +5874,7 @@
 		(fields_autoplaced yes)
 		(uuid "2ce7c281-05ea-47be-a511-de6296915df2")
 		(property "Reference" "C110"
-			(at 208.28 97.79 0)
+			(at 184.15 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2753,8 +5883,8 @@
 				)
 			)
 		)
-		(property "Value" "RZE-35V101MF80UQ-R2"
-			(at 208.28 100.33 0)
+		(property "Value" "100uF"
+			(at 184.15 100.33 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2764,7 +5894,7 @@
 			)
 		)
 		(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
-			(at 208.28 114.3 0)
+			(at 184.15 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2775,7 +5905,7 @@
 			)
 		)
 		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
-			(at 205.994 104.013 0)
+			(at 181.864 104.013 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2786,7 +5916,7 @@
 			)
 		)
 		(property "Description" "RZE-35V101MF80UQ-R2"
-			(at 208.28 104.14 0)
+			(at 184.15 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2797,7 +5927,7 @@
 			)
 		)
 		(property "LCSC" "C19673858"
-			(at 208.28 104.14 0)
+			(at 184.15 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2808,7 +5938,7 @@
 			)
 		)
 		(property "Manufacturer" "TAIYO YUDEN(太诱)"
-			(at 208.28 104.14 0)
+			(at 184.15 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2829,13 +5959,18 @@
 				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
 					(reference "C110")
 					(unit 1)
+					(variant
+						(name "SLAVE_0")
+						(dnp yes)
+					)
 				)
 			)
 		)
 	)
 	(symbol
+		(lib_name "RZE-35V101MF80UQ-R2_4")
 		(lib_id "lcsc_imported:RZE-35V101MF80UQ-R2")
-		(at 208.28 81.28 0)
+		(at 184.15 81.28 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2846,7 +5981,7 @@
 		(fields_autoplaced yes)
 		(uuid "2f8ddd3c-ad55-43de-adc7-37141bcc3b8e")
 		(property "Reference" "C106"
-			(at 208.28 74.93 0)
+			(at 184.15 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2855,8 +5990,8 @@
 				)
 			)
 		)
-		(property "Value" "RZE-35V101MF80UQ-R2"
-			(at 208.28 77.47 0)
+		(property "Value" "100uF"
+			(at 184.15 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2866,7 +6001,7 @@
 			)
 		)
 		(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
-			(at 208.28 91.44 0)
+			(at 184.15 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2877,7 +6012,7 @@
 			)
 		)
 		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
-			(at 205.994 81.153 0)
+			(at 181.864 81.153 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2888,7 +6023,7 @@
 			)
 		)
 		(property "Description" "RZE-35V101MF80UQ-R2"
-			(at 208.28 81.28 0)
+			(at 184.15 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2899,7 +6034,7 @@
 			)
 		)
 		(property "LCSC" "C19673858"
-			(at 208.28 81.28 0)
+			(at 184.15 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2910,7 +6045,7 @@
 			)
 		)
 		(property "Manufacturer" "TAIYO YUDEN(太诱)"
-			(at 208.28 81.28 0)
+			(at 184.15 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2931,13 +6066,18 @@
 				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
 					(reference "C106")
 					(unit 1)
+					(variant
+						(name "SLAVE_0")
+						(dnp yes)
+					)
 				)
 			)
 		)
 	)
 	(symbol
+		(lib_name "RZE-35V101MF80UQ-R2_14")
 		(lib_id "lcsc_imported:RZE-35V101MF80UQ-R2")
-		(at 177.8 58.42 0)
+		(at 161.29 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2948,7 +6088,7 @@
 		(fields_autoplaced yes)
 		(uuid "3020fe55-eed8-484c-a2bf-51f9b9af67a9")
 		(property "Reference" "C101"
-			(at 177.8 52.07 0)
+			(at 161.29 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2957,8 +6097,8 @@
 				)
 			)
 		)
-		(property "Value" "RZE-35V101MF80UQ-R2"
-			(at 177.8 54.61 0)
+		(property "Value" "100uF"
+			(at 161.29 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2968,7 +6108,7 @@
 			)
 		)
 		(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
-			(at 177.8 68.58 0)
+			(at 161.29 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2979,7 +6119,7 @@
 			)
 		)
 		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
-			(at 175.514 58.293 0)
+			(at 159.004 58.293 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2990,7 +6130,7 @@
 			)
 		)
 		(property "Description" "RZE-35V101MF80UQ-R2"
-			(at 177.8 58.42 0)
+			(at 161.29 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3001,7 +6141,7 @@
 			)
 		)
 		(property "LCSC" "C19673858"
-			(at 177.8 58.42 0)
+			(at 161.29 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3012,7 +6152,7 @@
 			)
 		)
 		(property "Manufacturer" "TAIYO YUDEN(太诱)"
-			(at 177.8 58.42 0)
+			(at 161.29 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3033,13 +6173,16 @@
 				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
 					(reference "C101")
 					(unit 1)
+					(variant
+						(name "SLAVE_0")
+					)
 				)
 			)
 		)
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 185.42 111.76 0)
+		(at 168.91 111.76 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3050,7 +6193,7 @@
 		(fields_autoplaced yes)
 		(uuid "36e0cc0b-e524-476f-8b43-34ce23e14f73")
 		(property "Reference" "#PWR045"
-			(at 185.42 118.11 0)
+			(at 168.91 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3061,7 +6204,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 185.42 116.84 0)
+			(at 168.91 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3071,7 +6214,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 185.42 111.76 0)
+			(at 168.91 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3082,7 +6225,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 185.42 111.76 0)
+			(at 168.91 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3093,7 +6236,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 185.42 111.76 0)
+			(at 168.91 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3195,8 +6338,9 @@
 		)
 	)
 	(symbol
+		(lib_name "RZE-35V101MF80UQ-R2_6")
 		(lib_id "lcsc_imported:RZE-35V101MF80UQ-R2")
-		(at 208.28 69.85 0)
+		(at 184.15 69.85 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3207,7 +6351,7 @@
 		(fields_autoplaced yes)
 		(uuid "488627a4-6c16-4c4d-b1a2-0c28e0d408f5")
 		(property "Reference" "C104"
-			(at 208.28 63.5 0)
+			(at 184.15 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3216,8 +6360,8 @@
 				)
 			)
 		)
-		(property "Value" "RZE-35V101MF80UQ-R2"
-			(at 208.28 66.04 0)
+		(property "Value" "100uF"
+			(at 184.15 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3227,7 +6371,7 @@
 			)
 		)
 		(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
-			(at 208.28 80.01 0)
+			(at 184.15 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3238,7 +6382,7 @@
 			)
 		)
 		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
-			(at 205.994 69.723 0)
+			(at 181.864 69.723 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3249,7 +6393,7 @@
 			)
 		)
 		(property "Description" "RZE-35V101MF80UQ-R2"
-			(at 208.28 69.85 0)
+			(at 184.15 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3260,7 +6404,7 @@
 			)
 		)
 		(property "LCSC" "C19673858"
-			(at 208.28 69.85 0)
+			(at 184.15 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3271,7 +6415,7 @@
 			)
 		)
 		(property "Manufacturer" "TAIYO YUDEN(太诱)"
-			(at 208.28 69.85 0)
+			(at 184.15 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3292,6 +6436,117 @@
 				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
 					(reference "C104")
 					(unit 1)
+					(variant
+						(name "SLAVE_0")
+						(dnp yes)
+					)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "RZE-35V101MF80UQ-R2_1")
+		(lib_id "lcsc_imported:RZE-35V101MF80UQ-R2")
+		(at 207.01 69.85 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "4c8959b4-f3fc-46f8-9b3a-c6d8f1266e8d")
+		(property "Reference" "C112"
+			(at 207.01 63.5 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100uF"
+			(at 207.01 66.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
+			(at 207.01 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
+			(at 204.724 69.723 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "RZE-35V101MF80UQ-R2"
+			(at 207.01 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C19673858"
+			(at 207.01 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TAIYO YUDEN(太诱)"
+			(at 207.01 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "abcbd44e-77c2-44ad-8345-3b5dde0603fc")
+		)
+		(pin "1"
+			(uuid "5c3690e7-416b-4dfb-a9f4-d3511755e8df")
+		)
+		(instances
+			(project "RGB_LED_matrix_PCB"
+				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
+					(reference "C112")
+					(unit 1)
+					(variant
+						(name "SLAVE_0")
+						(dnp no)
+					)
 				)
 			)
 		)
@@ -3405,7 +6660,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 200.66 50.8 0)
+		(at 176.53 50.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3416,7 +6671,7 @@
 		(fields_autoplaced yes)
 		(uuid "56fa6ebd-8290-469c-8eee-486ef8ef3e3c")
 		(property "Reference" "#PWR044"
-			(at 200.66 54.61 0)
+			(at 176.53 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3427,7 +6682,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 200.66 45.72 0)
+			(at 176.53 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3437,7 +6692,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 200.66 50.8 0)
+			(at 176.53 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3448,7 +6703,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 200.66 50.8 0)
+			(at 176.53 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3459,7 +6714,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 200.66 50.8 0)
+			(at 176.53 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3476,6 +6731,84 @@
 			(project "RGB_LED_matrix_PCB"
 				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
 					(reference "#PWR044")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 214.63 111.76 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "63bac360-2b1f-409c-9bd4-50a457cee7e6")
+		(property "Reference" "#PWR049"
+			(at 214.63 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 214.63 116.84 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 214.63 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 214.63 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 214.63 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "09d0536d-1834-4aba-aa90-44f8e90f3541")
+		)
+		(instances
+			(project "RGB_LED_matrix_PCB"
+				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -3562,7 +6895,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 170.18 50.8 0)
+		(at 153.67 50.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3573,7 +6906,7 @@
 		(fields_autoplaced yes)
 		(uuid "74026358-b0bd-4652-bebc-87ee033c5152")
 		(property "Reference" "#PWR043"
-			(at 170.18 54.61 0)
+			(at 153.67 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3584,7 +6917,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 170.18 45.72 0)
+			(at 153.67 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3594,7 +6927,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 170.18 50.8 0)
+			(at 153.67 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3605,7 +6938,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 50.8 0)
+			(at 153.67 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3616,7 +6949,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 170.18 50.8 0)
+			(at 153.67 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3717,8 +7050,9 @@
 		)
 	)
 	(symbol
+		(lib_name "RZE-35V101MF80UQ-R2_13")
 		(lib_id "lcsc_imported:RZE-35V101MF80UQ-R2")
-		(at 208.28 92.71 0)
+		(at 184.15 92.71 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3729,7 +7063,7 @@
 		(fields_autoplaced yes)
 		(uuid "7658fa41-150b-48ac-9a0c-a5bcb99e6625")
 		(property "Reference" "C108"
-			(at 208.28 86.36 0)
+			(at 184.15 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3738,8 +7072,8 @@
 				)
 			)
 		)
-		(property "Value" "RZE-35V101MF80UQ-R2"
-			(at 208.28 88.9 0)
+		(property "Value" "100uF"
+			(at 184.15 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3749,7 +7083,7 @@
 			)
 		)
 		(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
-			(at 208.28 102.87 0)
+			(at 184.15 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3760,7 +7094,7 @@
 			)
 		)
 		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
-			(at 205.994 92.583 0)
+			(at 181.864 92.583 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3771,7 +7105,7 @@
 			)
 		)
 		(property "Description" "RZE-35V101MF80UQ-R2"
-			(at 208.28 92.71 0)
+			(at 184.15 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3782,7 +7116,7 @@
 			)
 		)
 		(property "LCSC" "C19673858"
-			(at 208.28 92.71 0)
+			(at 184.15 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3793,7 +7127,7 @@
 			)
 		)
 		(property "Manufacturer" "TAIYO YUDEN(太诱)"
-			(at 208.28 92.71 0)
+			(at 184.15 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3814,6 +7148,10 @@
 				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
 					(reference "C108")
 					(unit 1)
+					(variant
+						(name "SLAVE_0")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -3899,8 +7237,114 @@
 		)
 	)
 	(symbol
+		(lib_id "lcsc_imported:RZE-35V101MF80UQ-R2")
+		(at 207.01 58.42 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "811d9b69-5ca9-4f53-a1a9-a8385e47dc40")
+		(property "Reference" "C111"
+			(at 207.01 52.07 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100uF"
+			(at 207.01 54.61 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
+			(at 207.01 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
+			(at 204.724 58.293 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "RZE-35V101MF80UQ-R2"
+			(at 207.01 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C19673858"
+			(at 207.01 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TAIYO YUDEN(太诱)"
+			(at 207.01 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "724c4307-1d83-4447-abf1-630922452e59")
+		)
+		(pin "1"
+			(uuid "b8661f24-879d-4ced-b062-62b235564f0f")
+		)
+		(instances
+			(project "RGB_LED_matrix_PCB"
+				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
+					(reference "C111")
+					(unit 1)
+					(variant
+						(name "SLAVE_0")
+						(dnp no)
+					)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
-		(at 215.9 111.76 0)
+		(at 191.77 111.76 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3911,7 +7355,7 @@
 		(fields_autoplaced yes)
 		(uuid "832a7826-6690-4ee4-9e25-a4c91ee257df")
 		(property "Reference" "#PWR046"
-			(at 215.9 118.11 0)
+			(at 191.77 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3922,7 +7366,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 215.9 116.84 0)
+			(at 191.77 116.84 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3932,7 +7376,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 215.9 111.76 0)
+			(at 191.77 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3943,7 +7387,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 215.9 111.76 0)
+			(at 191.77 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3954,7 +7398,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 215.9 111.76 0)
+			(at 191.77 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3977,110 +7421,9 @@
 		)
 	)
 	(symbol
+		(lib_name "RZE-35V101MF80UQ-R2_12")
 		(lib_id "lcsc_imported:RZE-35V101MF80UQ-R2")
-		(at 243.84 102.87 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "87f23b05-0510-43f2-ab57-28a824b4209c")
-		(property "Reference" "C111"
-			(at 243.84 96.52 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "RZE-35V101MF80UQ-R2"
-			(at 243.84 99.06 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
-			(at 243.84 113.03 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
-			(at 241.554 102.743 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "RZE-35V101MF80UQ-R2"
-			(at 243.84 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" "C19673858"
-			(at 243.84 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "TAIYO YUDEN(太诱)"
-			(at 243.84 102.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "a6609efa-28c8-4eaa-9ea9-5306b0ef2198")
-		)
-		(pin "1"
-			(uuid "9726c383-e619-4830-8208-9aa92cbbd999")
-		)
-		(instances
-			(project "RGB_LED_matrix_PCB"
-				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
-					(reference "C111")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "lcsc_imported:RZE-35V101MF80UQ-R2")
-		(at 208.28 58.42 0)
+		(at 184.15 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4091,7 +7434,7 @@
 		(fields_autoplaced yes)
 		(uuid "8d31fca9-d4a1-4b7e-86fb-aa2daae5470c")
 		(property "Reference" "C102"
-			(at 208.28 52.07 0)
+			(at 184.15 52.07 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4100,8 +7443,8 @@
 				)
 			)
 		)
-		(property "Value" "RZE-35V101MF80UQ-R2"
-			(at 208.28 54.61 0)
+		(property "Value" "100uF"
+			(at 184.15 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4111,7 +7454,7 @@
 			)
 		)
 		(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
-			(at 208.28 68.58 0)
+			(at 184.15 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4122,7 +7465,7 @@
 			)
 		)
 		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
-			(at 205.994 58.293 0)
+			(at 181.864 58.293 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4133,7 +7476,7 @@
 			)
 		)
 		(property "Description" "RZE-35V101MF80UQ-R2"
-			(at 208.28 58.42 0)
+			(at 184.15 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4144,7 +7487,7 @@
 			)
 		)
 		(property "LCSC" "C19673858"
-			(at 208.28 58.42 0)
+			(at 184.15 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4155,7 +7498,7 @@
 			)
 		)
 		(property "Manufacturer" "TAIYO YUDEN(太诱)"
-			(at 208.28 58.42 0)
+			(at 184.15 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4176,6 +7519,10 @@
 				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
 					(reference "C102")
 					(unit 1)
+					(variant
+						(name "SLAVE_0")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -4260,8 +7607,9 @@
 		)
 	)
 	(symbol
+		(lib_name "RZE-35V101MF80UQ-R2_11")
 		(lib_id "lcsc_imported:RZE-35V101MF80UQ-R2")
-		(at 177.8 69.85 0)
+		(at 161.29 69.85 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4272,7 +7620,7 @@
 		(fields_autoplaced yes)
 		(uuid "9639c787-3071-4056-87c4-3fa79bba8092")
 		(property "Reference" "C103"
-			(at 177.8 63.5 0)
+			(at 161.29 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4281,8 +7629,8 @@
 				)
 			)
 		)
-		(property "Value" "RZE-35V101MF80UQ-R2"
-			(at 177.8 66.04 0)
+		(property "Value" "100uF"
+			(at 161.29 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4292,7 +7640,7 @@
 			)
 		)
 		(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
-			(at 177.8 80.01 0)
+			(at 161.29 80.01 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4303,7 +7651,7 @@
 			)
 		)
 		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
-			(at 175.514 69.723 0)
+			(at 159.004 69.723 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4314,7 +7662,7 @@
 			)
 		)
 		(property "Description" "RZE-35V101MF80UQ-R2"
-			(at 177.8 69.85 0)
+			(at 161.29 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4325,7 +7673,7 @@
 			)
 		)
 		(property "LCSC" "C19673858"
-			(at 177.8 69.85 0)
+			(at 161.29 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4336,7 +7684,7 @@
 			)
 		)
 		(property "Manufacturer" "TAIYO YUDEN(太诱)"
-			(at 177.8 69.85 0)
+			(at 161.29 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4356,6 +7704,87 @@
 			(project "RGB_LED_matrix_PCB"
 				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
 					(reference "C103")
+					(unit 1)
+					(variant
+						(name "SLAVE_0")
+					)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+12V")
+		(at 199.39 50.8 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "99c80d20-f462-40cb-9448-1a98d65610fe")
+		(property "Reference" "#PWR048"
+			(at 199.39 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+12V"
+			(at 199.39 45.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 199.39 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 199.39 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+12V\""
+			(at 199.39 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "37ba3c8f-cb5f-4582-a1d5-a88f6e70218f")
+		)
+		(instances
+			(project "RGB_LED_matrix_PCB"
+				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -4436,6 +7865,113 @@
 				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
 					(reference "TP7")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "RZE-35V101MF80UQ-R2_10")
+		(lib_id "lcsc_imported:RZE-35V101MF80UQ-R2")
+		(at 207.01 92.71 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "a0e8769e-98dc-4a8f-98a8-4c207428cd0a")
+		(property "Reference" "C114"
+			(at 207.01 86.36 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100uF"
+			(at 207.01 88.9 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
+			(at 207.01 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
+			(at 204.724 92.583 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "RZE-35V101MF80UQ-R2"
+			(at 207.01 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C19673858"
+			(at 207.01 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TAIYO YUDEN(太诱)"
+			(at 207.01 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "59b27f21-7776-48ab-8c72-fbb0690c9d26")
+		)
+		(pin "1"
+			(uuid "96c230b2-fdcb-4d64-b5f4-247f974c2f10")
+		)
+		(instances
+			(project "RGB_LED_matrix_PCB"
+				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
+					(reference "C114")
+					(unit 1)
+					(variant
+						(name "SLAVE_0")
+						(dnp no)
+					)
 				)
 			)
 		)
@@ -4600,8 +8136,9 @@
 		)
 	)
 	(symbol
+		(lib_name "RZE-35V101MF80UQ-R2_8")
 		(lib_id "lcsc_imported:RZE-35V101MF80UQ-R2")
-		(at 177.8 92.71 0)
+		(at 161.29 92.71 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4612,7 +8149,7 @@
 		(fields_autoplaced yes)
 		(uuid "ac09dca6-abf7-454c-8691-3e66d82a52b4")
 		(property "Reference" "C107"
-			(at 177.8 86.36 0)
+			(at 161.29 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4621,8 +8158,8 @@
 				)
 			)
 		)
-		(property "Value" "RZE-35V101MF80UQ-R2"
-			(at 177.8 88.9 0)
+		(property "Value" "100uF"
+			(at 161.29 88.9 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4632,7 +8169,7 @@
 			)
 		)
 		(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
-			(at 177.8 102.87 0)
+			(at 161.29 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4643,7 +8180,7 @@
 			)
 		)
 		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
-			(at 175.514 92.583 0)
+			(at 159.004 92.583 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4654,7 +8191,7 @@
 			)
 		)
 		(property "Description" "RZE-35V101MF80UQ-R2"
-			(at 177.8 92.71 0)
+			(at 161.29 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4665,7 +8202,7 @@
 			)
 		)
 		(property "LCSC" "C19673858"
-			(at 177.8 92.71 0)
+			(at 161.29 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4676,7 +8213,7 @@
 			)
 		)
 		(property "Manufacturer" "TAIYO YUDEN(太诱)"
-			(at 177.8 92.71 0)
+			(at 161.29 92.71 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4697,91 +8234,17 @@
 				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
 					(reference "C107")
 					(unit 1)
+					(variant
+						(name "SLAVE_0")
+					)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 252.73 105.41 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cf1bf9ef-90f4-42ca-a150-85ea754b1606")
-		(property "Reference" "#PWR048"
-			(at 252.73 111.76 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 252.73 110.49 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 252.73 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 252.73 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 252.73 105.41 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "493022e6-6437-4022-a833-35104031bce3")
-		)
-		(instances
-			(project "RGB_LED_matrix_PCB"
-				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
-					(reference "#PWR048")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
+		(lib_name "RZE-35V101MF80UQ-R2_9")
 		(lib_id "lcsc_imported:RZE-35V101MF80UQ-R2")
-		(at 177.8 104.14 0)
+		(at 161.29 104.14 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4792,7 +8255,7 @@
 		(fields_autoplaced yes)
 		(uuid "cfe1d27d-2a2d-42d6-bb7a-bd943a56ca94")
 		(property "Reference" "C109"
-			(at 177.8 97.79 0)
+			(at 161.29 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4801,8 +8264,8 @@
 				)
 			)
 		)
-		(property "Value" "RZE-35V101MF80UQ-R2"
-			(at 177.8 100.33 0)
+		(property "Value" "100uF"
+			(at 161.29 100.33 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4812,7 +8275,7 @@
 			)
 		)
 		(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
-			(at 177.8 114.3 0)
+			(at 161.29 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4823,7 +8286,7 @@
 			)
 		)
 		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
-			(at 175.514 104.013 0)
+			(at 159.004 104.013 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4834,7 +8297,7 @@
 			)
 		)
 		(property "Description" "RZE-35V101MF80UQ-R2"
-			(at 177.8 104.14 0)
+			(at 161.29 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4845,7 +8308,7 @@
 			)
 		)
 		(property "LCSC" "C19673858"
-			(at 177.8 104.14 0)
+			(at 161.29 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4856,7 +8319,7 @@
 			)
 		)
 		(property "Manufacturer" "TAIYO YUDEN(太诱)"
-			(at 177.8 104.14 0)
+			(at 161.29 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4877,13 +8340,17 @@
 				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
 					(reference "C109")
 					(unit 1)
+					(variant
+						(name "SLAVE_0")
+					)
 				)
 			)
 		)
 	)
 	(symbol
+		(lib_name "RZE-35V101MF80UQ-R2_7")
 		(lib_id "lcsc_imported:RZE-35V101MF80UQ-R2")
-		(at 177.8 81.28 0)
+		(at 161.29 81.28 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4894,7 +8361,7 @@
 		(fields_autoplaced yes)
 		(uuid "d69b8eff-fd17-4d38-83be-0b95ab579f9d")
 		(property "Reference" "C105"
-			(at 177.8 74.93 0)
+			(at 161.29 74.93 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4903,8 +8370,8 @@
 				)
 			)
 		)
-		(property "Value" "RZE-35V101MF80UQ-R2"
-			(at 177.8 77.47 0)
+		(property "Value" "100uF"
+			(at 161.29 77.47 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4914,7 +8381,7 @@
 			)
 		)
 		(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
-			(at 177.8 91.44 0)
+			(at 161.29 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4925,7 +8392,7 @@
 			)
 		)
 		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
-			(at 175.514 81.153 0)
+			(at 159.004 81.153 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4936,7 +8403,7 @@
 			)
 		)
 		(property "Description" "RZE-35V101MF80UQ-R2"
-			(at 177.8 81.28 0)
+			(at 161.29 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4947,7 +8414,7 @@
 			)
 		)
 		(property "LCSC" "C19673858"
-			(at 177.8 81.28 0)
+			(at 161.29 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4958,7 +8425,7 @@
 			)
 		)
 		(property "Manufacturer" "TAIYO YUDEN(太诱)"
-			(at 177.8 81.28 0)
+			(at 161.29 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4979,6 +8446,9 @@
 				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
 					(reference "C105")
 					(unit 1)
+					(variant
+						(name "SLAVE_0")
+					)
 				)
 			)
 		)
@@ -5058,6 +8528,113 @@
 				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
 					(reference "TP1")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "RZE-35V101MF80UQ-R2_2")
+		(lib_id "lcsc_imported:RZE-35V101MF80UQ-R2")
+		(at 207.01 81.28 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "ddfc70e0-206b-4638-a943-921fc4813cc1")
+		(property "Reference" "C113"
+			(at 207.01 74.93 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100uF"
+			(at 207.01 77.47 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "lcsc_footprints:C19673858_CAP-SMD_BD6_3-L6_5-W6_5-LS7_2-FD_1"
+			(at 207.01 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2312160131_Taiyo-Yuden-RZE-35V101MF80UQ-R2_C19673858.pdf"
+			(at 204.724 81.153 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "RZE-35V101MF80UQ-R2"
+			(at 207.01 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C19673858"
+			(at 207.01 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "TAIYO YUDEN(太诱)"
+			(at 207.01 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "56dba86e-d77b-4863-99b3-c252f5eb1d56")
+		)
+		(pin "1"
+			(uuid "503de17f-cf30-491f-9c7a-0478e6116659")
+		)
+		(instances
+			(project "RGB_LED_matrix_PCB"
+				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
+					(reference "C113")
+					(unit 1)
+					(variant
+						(name "SLAVE_0")
+						(dnp no)
+					)
 				)
 			)
 		)
@@ -5296,84 +8873,6 @@
 			(project "RGB_LED_matrix_PCB"
 				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
 					(reference "TP9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+12V")
-		(at 234.95 100.33 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f4fdd9a1-5b4f-42ea-b2a4-20329c81f2ef")
-		(property "Reference" "#PWR049"
-			(at 234.95 104.14 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+12V"
-			(at 234.95 95.25 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 234.95 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 234.95 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 234.95 100.33 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4ac730de-b23e-4e4e-9d49-17914ada0a00")
-		)
-		(instances
-			(project "RGB_LED_matrix_PCB"
-				(path "/9b8f3ab9-1390-478e-b751-94b8298dc6c3"
-					(reference "#PWR049")
 					(unit 1)
 				)
 			)
