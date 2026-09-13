@@ -10993,7 +10993,7 @@
 	)
 	(hierarchical_label "H_current"
 		(shape input)
-		(at 143.51 91.44 0)
+		(at 143.51 102.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11015,7 +11015,7 @@
 	)
 	(hierarchical_label "MAX_current"
 		(shape input)
-		(at 143.51 102.87 0)
+		(at 143.51 91.44 0)
 		(effects
 			(font
 				(size 1.27 1.27)

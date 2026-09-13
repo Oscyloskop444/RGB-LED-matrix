@@ -12126,7 +12126,7 @@
 			)
 		)
 		(pin "H_current" input
-			(at 207.01 106.68 180)
+			(at 207.01 104.14 180)
 			(uuid "f354ce18-f36f-4cab-ab50-0d4db597c3db")
 			(effects
 				(font
@@ -12146,7 +12146,7 @@
 			)
 		)
 		(pin "MAX_current" input
-			(at 207.01 104.14 180)
+			(at 207.01 106.68 180)
 			(uuid "bf76641f-3e34-4a84-a61b-95322602fe33")
 			(effects
 				(font
