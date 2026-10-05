@@ -12029,6 +12029,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "C11")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -12133,6 +12137,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "D3")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -12328,6 +12336,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "D2")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -12537,6 +12549,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "U9")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -12803,6 +12819,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "C9")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -13253,6 +13273,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "D1")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -13571,6 +13595,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "R14")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -13810,6 +13838,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "C24")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -13939,6 +13971,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "U7")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -14688,6 +14724,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "Q3")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -14847,6 +14887,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "R29")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -15333,6 +15377,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "USBC1")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -15492,6 +15540,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "R21")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -15734,6 +15786,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "R10")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -15815,6 +15871,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "C8")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -15977,6 +16037,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "R24")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -16059,6 +16123,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "C12")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -16636,6 +16704,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "R25")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -16744,6 +16816,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "Q2")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -16848,6 +16924,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "C10")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -17012,6 +17092,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "R11")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -17094,6 +17178,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "R12")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -17176,6 +17264,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "R13")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -17729,6 +17821,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "R26")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -17888,6 +17984,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "R19")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -18433,6 +18533,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "U6")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -18514,6 +18618,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "R17")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -18693,6 +18801,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "U8")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -18775,6 +18887,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "R16")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -18939,6 +19055,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "TH1")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -19098,6 +19218,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "R20")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -19180,6 +19304,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "R15")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -19278,6 +19406,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "U13")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -19453,6 +19585,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "R32")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -19858,6 +19994,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "R23")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -20018,6 +20158,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "C14")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -20100,6 +20244,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "C20")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -20326,6 +20474,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "D4")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)

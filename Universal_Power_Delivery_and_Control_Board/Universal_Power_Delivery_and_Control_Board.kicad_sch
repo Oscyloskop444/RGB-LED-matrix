@@ -11339,7 +11339,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "cbbf1327-eaa9-4925-8f14-d7a09544440d")
 		(property "Reference" "R4"
 			(at 112.268 85.5979 0)
@@ -11603,7 +11603,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "d801d1a6-40d7-469b-bf17-a6d9f62f08c5")
 		(property "Reference" "R3"
 			(at 102.362 87.8841 0)

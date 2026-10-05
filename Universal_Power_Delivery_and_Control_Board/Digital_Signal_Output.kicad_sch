@@ -7897,6 +7897,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/bdaed53d-5f4e-48c9-9e2a-f60b1b226061"
 					(reference "FPC4")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -8328,6 +8332,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/bdaed53d-5f4e-48c9-9e2a-f60b1b226061"
 					(reference "RN4")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -8816,6 +8824,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/bdaed53d-5f4e-48c9-9e2a-f60b1b226061"
 					(reference "U23")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -9016,6 +9028,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/bdaed53d-5f4e-48c9-9e2a-f60b1b226061"
 					(reference "RN5")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -9179,6 +9195,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/bdaed53d-5f4e-48c9-9e2a-f60b1b226061"
 					(reference "C47")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -9314,6 +9334,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/bdaed53d-5f4e-48c9-9e2a-f60b1b226061"
 					(reference "FPC6")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -9590,6 +9614,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/bdaed53d-5f4e-48c9-9e2a-f60b1b226061"
 					(reference "RN3")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -10015,6 +10043,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/bdaed53d-5f4e-48c9-9e2a-f60b1b226061"
 					(reference "FPC3")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -10178,6 +10210,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/bdaed53d-5f4e-48c9-9e2a-f60b1b226061"
 					(reference "C48")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
