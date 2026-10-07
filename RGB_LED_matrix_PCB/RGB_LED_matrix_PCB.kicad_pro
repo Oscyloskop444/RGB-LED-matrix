@@ -526,7 +526,7 @@
       "netlist": "",
       "plot": "/home/oscyloskop/Downloads/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "3D/SLAVE_0/RGB_LED_matrix_PCB.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
