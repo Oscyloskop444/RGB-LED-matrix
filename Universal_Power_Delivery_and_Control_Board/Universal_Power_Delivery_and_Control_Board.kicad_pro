@@ -1026,8 +1026,20 @@
         "uuid": "b749dd2f-6b66-411b-a989-65da6091f700"
       }
     ],
-    "used_designators": "TH1,TF1,C1-60,#SYM1,H1-4,LED1-5,A1-2,FPC1-7,JP1-11,TP1-8,F1,Q1-3,U1-28,D1-6,#PWR1-113,L1-2,SW1-4,RN1-5,BUZZER1,USBC1-2,CN1-5,USB1-2,R1-51",
+    "used_designators": "CN1-5,USB1-2,#SYM1,H1-4,LED1-5,R1-51,JP1-11,FPC1-7,TP1-8,A1-2,C1-60,TF1,TH1,#PWR1-113,L1-2,SW1-4,RN1-5,BUZZER1,USBC1-2,Q1-3,F1,D1-6,U1-28",
     "variants": [
+      {
+        "name": "10x10-LED-MATRIX"
+      },
+      {
+        "name": "10x10x10-LED-CUBE-SC"
+      },
+      {
+        "name": "20x20-LED-MATRIX"
+      },
+      {
+        "name": "5x5x5-LED-CUBE-RGB"
+      },
       {
         "name": "5x5x5-LED-CUBE-SC"
       }

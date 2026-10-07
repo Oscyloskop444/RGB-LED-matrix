@@ -9110,6 +9110,18 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700"
 					(reference "R6")
 					(unit 1)
+					(variant
+						(name "10x10-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "20x20-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "5x5x5-LED-CUBE-RGB")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -9562,6 +9574,18 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700"
 					(reference "R7")
 					(unit 1)
+					(variant
+						(name "10x10-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "20x20-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "5x5x5-LED-CUBE-RGB")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -10048,6 +10072,18 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700"
 					(reference "R8")
 					(unit 1)
+					(variant
+						(name "10x10-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "20x20-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "5x5x5-LED-CUBE-RGB")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -11339,7 +11375,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "cbbf1327-eaa9-4925-8f14-d7a09544440d")
 		(property "Reference" "R4"
 			(at 112.268 85.5979 0)
@@ -11407,6 +11443,22 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700"
 					(reference "R4")
 					(unit 1)
+					(variant
+						(name "10x10-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "10x10x10-LED-CUBE-SC")
+						(dnp yes)
+					)
+					(variant
+						(name "20x20-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "5x5x5-LED-CUBE-RGB")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -11603,7 +11655,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "d801d1a6-40d7-469b-bf17-a6d9f62f08c5")
 		(property "Reference" "R3"
 			(at 102.362 87.8841 0)
@@ -11671,6 +11723,22 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700"
 					(reference "R3")
 					(unit 1)
+					(variant
+						(name "10x10-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "10x10x10-LED-CUBE-SC")
+						(dnp yes)
+					)
+					(variant
+						(name "20x20-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "5x5x5-LED-CUBE-RGB")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -12387,6 +12455,18 @@
 			(project "Universal_Power_Delivery_and_Control_Board"
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700"
 					(page "4")
+					(variant
+						(name "10x10-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "20x20-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "5x5x5-LED-CUBE-RGB")
+						(dnp yes)
+					)
 				)
 			)
 		)

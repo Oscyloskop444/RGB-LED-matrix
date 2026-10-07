@@ -11429,6 +11429,22 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "C15")
 					(unit 1)
+					(variant
+						(name "10x10-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "10x10x10-LED-CUBE-SC")
+						(dnp yes)
+					)
+					(variant
+						(name "20x20-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "5x5x5-LED-CUBE-RGB")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -11521,6 +11537,22 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "U14")
 					(unit 1)
+					(variant
+						(name "10x10-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "10x10x10-LED-CUBE-SC")
+						(dnp yes)
+					)
+					(variant
+						(name "20x20-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "5x5x5-LED-CUBE-RGB")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -11760,6 +11792,22 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "JP1")
 					(unit 1)
+					(variant
+						(name "10x10-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "10x10x10-LED-CUBE-SC")
+						(dnp yes)
+					)
+					(variant
+						(name "20x20-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "5x5x5-LED-CUBE-RGB")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -12737,6 +12785,22 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "D6")
 					(unit 1)
+					(variant
+						(name "10x10-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "10x10x10-LED-CUBE-SC")
+						(dnp yes)
+					)
+					(variant
+						(name "20x20-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "5x5x5-LED-CUBE-RGB")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -13357,6 +13421,22 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "JP2")
 					(unit 1)
+					(variant
+						(name "10x10-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "10x10x10-LED-CUBE-SC")
+						(dnp yes)
+					)
+					(variant
+						(name "20x20-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "5x5x5-LED-CUBE-RGB")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -13595,6 +13675,27 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "R14")
 					(unit 1)
+					(variant
+						(name "10x10-LED-MATRIX")
+						(field
+							(name "Value")
+							(value "11K3")
+						)
+					)
+					(variant
+						(name "10x10x10-LED-CUBE-SC")
+						(field
+							(name "Value")
+							(value "18K2")
+						)
+					)
+					(variant
+						(name "5x5x5-LED-CUBE-RGB")
+						(field
+							(name "Value")
+							(value "18K2")
+						)
+					)
 					(variant
 						(name "5x5x5-LED-CUBE-SC")
 						(dnp yes)
@@ -14219,6 +14320,22 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "R33")
 					(unit 1)
+					(variant
+						(name "10x10-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "10x10x10-LED-CUBE-SC")
+						(dnp yes)
+					)
+					(variant
+						(name "20x20-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "5x5x5-LED-CUBE-RGB")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -14301,6 +14418,22 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "C26")
 					(unit 1)
+					(variant
+						(name "10x10-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "10x10x10-LED-CUBE-SC")
+						(dnp yes)
+					)
+					(variant
+						(name "20x20-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "5x5x5-LED-CUBE-RGB")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -16366,6 +16499,22 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "C25")
 					(unit 1)
+					(variant
+						(name "10x10-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "10x10x10-LED-CUBE-SC")
+						(dnp yes)
+					)
+					(variant
+						(name "20x20-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "5x5x5-LED-CUBE-RGB")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -17264,6 +17413,27 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "R13")
 					(unit 1)
+					(variant
+						(name "10x10-LED-MATRIX")
+						(field
+							(name "Value")
+							(value "1K15")
+						)
+					)
+					(variant
+						(name "10x10x10-LED-CUBE-SC")
+						(field
+							(name "Value")
+							(value "1K05")
+						)
+					)
+					(variant
+						(name "5x5x5-LED-CUBE-RGB")
+						(field
+							(name "Value")
+							(value "1K05")
+						)
+					)
 					(variant
 						(name "5x5x5-LED-CUBE-SC")
 						(dnp yes)
@@ -18704,6 +18874,22 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "R18")
 					(unit 1)
+					(variant
+						(name "10x10-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "10x10x10-LED-CUBE-SC")
+						(dnp yes)
+					)
+					(variant
+						(name "20x20-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "5x5x5-LED-CUBE-RGB")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -19219,6 +19405,20 @@
 					(reference "R20")
 					(unit 1)
 					(variant
+						(name "10x10x10-LED-CUBE-SC")
+						(field
+							(name "Value")
+							(value "56K")
+						)
+					)
+					(variant
+						(name "5x5x5-LED-CUBE-RGB")
+						(field
+							(name "Value")
+							(value "56K")
+						)
+					)
+					(variant
 						(name "5x5x5-LED-CUBE-SC")
 						(dnp yes)
 					)
@@ -19669,6 +19869,10 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "F1")
 					(unit 1)
+					(variant
+						(name "5x5x5-LED-CUBE-SC")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -19833,6 +20037,22 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "R22")
 					(unit 1)
+					(variant
+						(name "10x10-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "10x10x10-LED-CUBE-SC")
+						(dnp yes)
+					)
+					(variant
+						(name "20x20-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "5x5x5-LED-CUBE-RGB")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -19913,6 +20133,22 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "JP4")
 					(unit 1)
+					(variant
+						(name "10x10-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "10x10x10-LED-CUBE-SC")
+						(dnp yes)
+					)
+					(variant
+						(name "20x20-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "5x5x5-LED-CUBE-RGB")
+						(dnp yes)
+					)
 				)
 			)
 		)
@@ -20558,6 +20794,22 @@
 				(path "/b749dd2f-6b66-411b-a989-65da6091f700/ecb712a9-952e-410c-aeaa-ac56dd2d7726"
 					(reference "JP3")
 					(unit 1)
+					(variant
+						(name "10x10-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "10x10x10-LED-CUBE-SC")
+						(dnp yes)
+					)
+					(variant
+						(name "20x20-LED-MATRIX")
+						(dnp yes)
+					)
+					(variant
+						(name "5x5x5-LED-CUBE-RGB")
+						(dnp yes)
+					)
 				)
 			)
 		)

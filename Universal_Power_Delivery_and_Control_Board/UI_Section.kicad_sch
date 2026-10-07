@@ -1159,15 +1159,15 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "replace with TI SN74LV1T34DCKR\n"
+	(text "NOTE (NOT APPLICABLE TO THE 5x5x5-LED-CUBE-SC\nIT MUST USE THE IC ON THE SCHEMATIC):\nCan be replaced with SN74LVC1G17DCKR and it should work although\nusing the one on the schematic is preffered.\n"
 		(exclude_from_sim no)
-		(at 91.948 113.284 0)
+		(at 65.786 47.752 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
-		(uuid "62b87246-40d2-4e88-b562-84c0e944bac4")
+		(uuid "35aa66a7-8b1a-40a6-8102-bbb3ad0f5d49")
 	)
 	(junction
 		(at 96.52 93.98)
@@ -1346,6 +1346,17 @@
 			(type default)
 		)
 		(uuid "0165ca03-2a00-4310-9e25-7262389940a5")
+	)
+	(polyline
+		(pts
+			(xy 73.66 60.96) (xy 73.66 63.5)
+		)
+		(stroke
+			(width 0)
+			(type dash_dot_dot)
+			(color 255 155 1 1)
+		)
+		(uuid "0459bc4e-6921-4243-a477-9ee2ff0daad3")
 	)
 	(wire
 		(pts
@@ -1967,6 +1978,17 @@
 		)
 		(uuid "9df2a8cc-368b-47c9-8067-cf435d44776a")
 	)
+	(polyline
+		(pts
+			(xy 66.04 63.5) (xy 66.04 68.58)
+		)
+		(stroke
+			(width 0)
+			(type dash_dot_dot)
+			(color 255 155 1 1)
+		)
+		(uuid "a09e91cd-aba2-4fb1-8489-1c71fbde0c05")
+	)
 	(wire
 		(pts
 			(xy 158.75 83.82) (xy 158.75 85.09)
@@ -2116,6 +2138,17 @@
 			(type default)
 		)
 		(uuid "c7401a8e-05a4-4216-ba76-d679673f1542")
+	)
+	(polyline
+		(pts
+			(xy 73.66 60.96) (xy 73.66 53.34)
+		)
+		(stroke
+			(width 0)
+			(type dash_dot_dot)
+			(color 255 155 1 1)
+		)
+		(uuid "c75bbe5a-b6ba-4b27-93a1-776625ef0951")
 	)
 	(wire
 		(pts
@@ -2276,6 +2309,17 @@
 			(type default)
 		)
 		(uuid "ef0e5e21-9fff-4a69-83d7-c44ef22e1f70")
+	)
+	(polyline
+		(pts
+			(xy 73.66 63.5) (xy 66.04 63.5)
+		)
+		(stroke
+			(width 0)
+			(type dash_dot_dot)
+			(color 255 155 1 1)
+		)
+		(uuid "efdb2e60-3ddc-4045-939a-63bd08609acf")
 	)
 	(wire
 		(pts
