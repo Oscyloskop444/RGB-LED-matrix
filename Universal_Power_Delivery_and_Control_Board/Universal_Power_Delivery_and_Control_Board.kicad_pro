@@ -183,6 +183,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 1,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -194,6 +195,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 1,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -205,6 +207,7 @@
         {
           "td_allow_use_two_tracks": true,
           "td_curve_segcount": 1,
+          "td_enabled": false,
           "td_height_ratio": 1.0,
           "td_length_ratio": 0.5,
           "td_maxheight": 2.0,
@@ -810,6 +813,7 @@
       "pin_to_pin": "warning",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
+      "same_local_global_power": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",
@@ -857,8 +861,8 @@
     "meta": {
       "version": 5
     },
-    "net_colors": null,
-    "netclass_assignments": null,
+    "net_colors": {},
+    "netclass_assignments": {},
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -867,7 +871,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "Universal_Power_Delivery_and_Control_Board.step",
+      "step": "3D/20x20-LED-MATRIX/Universal_Power_Delivery_and_Control_Board.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -1026,7 +1030,7 @@
         "uuid": "b749dd2f-6b66-411b-a989-65da6091f700"
       }
     ],
-    "used_designators": "CN1-5,USB1-2,#SYM1,H1-4,LED1-5,R1-51,JP1-11,FPC1-7,TP1-8,A1-2,C1-60,TF1,TH1,#PWR1-113,L1-2,SW1-4,RN1-5,BUZZER1,USBC1-2,Q1-3,F1,D1-6,U1-28",
+    "used_designators": "#PWR1-113,#SYM1,A1-2,BUZZER1,C1-60,CN1-5,D1-6,F1,FPC1-7,H1-4,JP1-11,L1-2,LED1-5,Q1-3,R1-51,RN1-5,SW1-4,TF1,TH1,TP1-8,U1-28,USB1-2,USBC1-2",
     "variants": [
       {
         "name": "10x10-LED-MATRIX"
